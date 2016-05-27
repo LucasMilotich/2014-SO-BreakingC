@@ -1,0 +1,1 @@
+funcionesKernel.d: ../funcionesKernel.c

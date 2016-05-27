@@ -1,0 +1,33 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+BreakingC/CPU/Config.txt
+BreakingC/Programa/Config.txt
+
+BreakingC/CPU/Log.txt
+BreakingC/UMV/Log.txt
+BreakingC/Programa/Log.txt
+BreakingC/Kernel/log_kernel.txt
+BreakingC/Kernel/PLP/log_plp.txt
+BreakingC/Kernel/PLP/log_pcp.txt

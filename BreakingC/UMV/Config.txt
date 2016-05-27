@@ -1,0 +1,12 @@
+####### ARCHIVO DE CONFIGURACION DE LA UMV #################
+
+
+
+IP=192.168.1.119
+PUERTO=6669
+MALLOC=5000
+
+
+DUMP=/home/utnso/tp-2014-1c-breaking-c/BreakingC/UMV/Dump.txt
+LOG=/home/utnso/tp-2014-1c-breaking-c/BreakingC/UMV/Log.txt
+########################################################

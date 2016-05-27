@@ -1,0 +1,2640 @@
+[TRACE] 21:55:23:80 Socket/(15079:15079): Lo que se enviara tiene longitud: 72
+[TRACE] 21:55:23:80 Socket/(15079:15079): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 21:55:39:143 Socket/(15049:15096): Lo que se recibira tiene longitud: 72
+[TRACE] 21:55:45:981 Socket/(15049:15096): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+itude
+[TRACE] 22:13:57:905 Socket/(15279:15279): Lo que se enviara tiene longitud: 72
+[TRACE] 22:13:57:905 Socket/(15279:15279): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:14:30:748 Socket/(15247:15295): Lo que se recibira tiene longitud: 72
+[TRACE] 22:14:40:95 Socket/(15247:15295): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+itude
+[TRACE] 22:18:19:379 Socket/(15629:15629): Lo que se enviara tiene longitud: 72
+[TRACE] 22:18:19:379 Socket/(15629:15629): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:18:30:960 Socket/(15602:15646): Lo que se recibira tiene longitud: 72
+[TRACE] 22:18:36:607 Socket/(15602:15646): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+itude
+[TRACE] 22:19:21:247 Socket/(15602:15646): Lo que se enviara tiene longitud: 34
+[TRACE] 22:19:23:434 Socket/(15629:15629): Lo que se recibira tiene longitud: 34
+[TRACE] 22:19:25:323 Socket/(15602:15646): Se envio: Esta es la respuesta del servidor.
+[TRACE] 22:19:25:691 Socket/(15629:15629): Se recibio: Esta es la respuesta del servidor.:19
+[TRACE] 22:22:39:275 Socket/(16034:16034): Lo que se enviara tiene longitud: 72
+[TRACE] 22:22:39:275 Socket/(16034:16034): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:22:56:183 Socket/(16003:16051): Lo que se recibira tiene longitud: 72
+[TRACE] 22:23:00:982 Socket/(16003:16051): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+itude
+[TRACE] 22:40:30:594 Socket/(17135:17135): Lo que se enviara tiene longitud: 73
+[TRACE] 22:40:34:236 Socket/(17100:17176): Lo que se recibira tiene longitud: 73
+[TRACE] 22:40:36:855 Socket/(17135:17135): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:40:38:395 Socket/(17100:17176): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:40:38:396 Socket/(17100:17176): Lo que se enviara tiene longitud: 35
+[TRACE] 22:40:38:397 Socket/(17100:17176): Se envio: Esta es la respuesta del servidor.
+[TRACE] 22:41:08:4 Socket/(17135:17135): Lo que se recibira tiene longitud: 35
+[TRACE] 22:41:19:701 Socket/(17135:17135): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 22:47:49:432 Socket/(17363:17363): Lo que se enviara tiene longitud: 73
+[TRACE] 22:47:49:760 Socket/(17322:17406): Lo que se recibira tiene longitud: 73
+[TRACE] 22:47:51:491 Socket/(17363:17363): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:47:51:735 Socket/(17322:17406): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:47:51:736 Socket/(17322:17406): Lo que se enviara tiene longitud: 35
+[TRACE] 22:47:51:736 Socket/(17322:17406): Se envio: Esta es la respuesta del servidor.
+[TRACE] 22:47:58:319 Socket/(17363:17363): Lo que se recibira tiene longitud: 35
+[TRACE] 22:48:04:716 Socket/(17363:17363): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 23:26:31:124 Socket/(17784:17784): Lo que se enviara tiene longitud: 73
+[TRACE] 23:26:31:124 Socket/(17784:17784): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:26:31:125 Socket/(17669:17789): Lo que se recibira tiene longitud: (null)
+[TRACE] 23:26:31:125 Socket/(17669:17789): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:27:19:459 Socket/(17865:17865): Lo que se enviara tiene longitud: 73
+[TRACE] 23:27:20:67 Socket/(17829:17913): Lo que se recibira tiene longitud: (null)
+[TRACE] 23:27:22:637 Socket/(17865:17865): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:27:23:423 Socket/(17829:17913): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:28:30:859 Socket/(18061:18061): Lo que se enviara tiene longitud: 73
+[TRACE] 23:28:32:94 Socket/(18026:18106): Lo que se recibira tiene longitud: (null)
+[TRACE] 23:28:46:133 Socket/(18061:18061): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:28:47:801 Socket/(18026:18106): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:41:31:135 Socket/(18447:18447): Lo que se enviara tiene longitud: 73
+[TRACE] 23:41:39:911 Socket/(18408:18496): Lo que se recibira tiene longitud: (null)
+[TRACE] 23:41:43:142 Socket/(18447:18447): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 23:41:43:612 Socket/(18408:18496): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:04:21:902 Socket/(18928:18928): Lo que se enviara tiene longitud: 73
+[TRACE] 00:04:21:902 Socket/(18928:18928): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:04:21:903 Socket/(18815:18933): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:04:21:903 Socket/(18815:18933): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:04:45:5 Socket/(18987:18987): Lo que se enviara tiene longitud: 73
+[TRACE] 00:04:48:234 Socket/(18951:19026): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:04:50:522 Socket/(18987:18987): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:04:50:764 Socket/(18951:19026): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:07:36:83 Socket/(19305:19305): Lo que se enviara tiene longitud: 73
+[TRACE] 00:07:36:827 Socket/(19269:19351): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:07:40:570 Socket/(19305:19305): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:07:41:29 Socket/(19269:19351): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:10:39:293 Socket/(19704:19704): Lo que se enviara tiene longitud: 73
+[TRACE] 00:10:39:886 Socket/(19668:19745): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:10:42:696 Socket/(19704:19704): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:10:43:765 Socket/(19668:19745): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:14:07:117 Socket/(20011:20011): Lo que se enviara tiene longitud: 73
+[TRACE] 00:14:07:816 Socket/(19972:20054): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:14:13:560 Socket/(20011:20011): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:14:18:511 Socket/(19972:20054): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:17:37:371 Socket/(20359:20359): Lo que se enviara tiene longitud: 73
+[TRACE] 00:17:38:835 Socket/(20225:20403): Lo que se recibira tiene longitud: (null)
+[TRACE] 00:17:45:312 Socket/(20359:20359): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:17:45:902 Socket/(20225:20403): Se recibio: hÀ¶#!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+entude
+[TRACE] 00:25:57:130 Socket/(21011:21011): Lo que se enviara tiene longitud: 73
+[TRACE] 00:25:59:253 Socket/(20938:21058): Lo que se recibira tiene longitud: 73
+[TRACE] 00:26:04:256 Socket/(21011:21011): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:26:04:826 Socket/(20938:21058): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:26:56:903 Socket/(21181:21181): Lo que se enviara tiene longitud: 73
+[TRACE] 00:26:56:903 Socket/(21181:21181): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:27:16:367 Socket/(21151:21198): Lo que se recibira tiene longitud: 73
+[TRACE] 00:27:22:682 Socket/(21151:21198): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:29:06:874 Socket/(21406:21406): Lo que se enviara tiene longitud: 73
+[TRACE] 00:29:06:874 Socket/(21406:21406): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:29:22:258 Socket/(21377:21422): Lo que se recibira tiene longitud: 73
+[TRACE] 00:29:25:22 Socket/(21377:21422): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:34:08:409 Socket/(21756:21756): Lo que se enviara tiene longitud: 73
+[TRACE] 00:34:08:409 Socket/(21756:21756): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:34:18:699 Socket/(21726:21772): Lo que se recibira tiene longitud: 73
+[TRACE] 00:34:22:763 Socket/(21726:21772): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:34:46:268 Socket/(21726:21772): Lo que se enviara tiene longitud: 35
+[TRACE] 00:34:50:965 Socket/(21756:21756): Lo que se recibira tiene longitud: 35
+[TRACE] 00:35:05:89 Socket/(21726:21772): Se envio: Esta es la respuesta del servidor.
+[TRACE] 00:35:18:912 Socket/(21756:21756): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 00:43:27:751 Socket/(22113:22113): Lo que se enviara tiene longitud: 73
+[TRACE] 00:43:27:751 Socket/(22113:22113): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:43:44:89 Socket/(22084:22132): Lo que se recibira tiene longitud: 73
+[TRACE] 00:44:19:158 Socket/(22084:22132): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:45:43:880 Socket/(22378:22378): Lo que se enviara tiene longitud: 73
+[TRACE] 00:45:43:880 Socket/(22378:22378): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:45:55:726 Socket/(22317:22396): Lo que se recibira tiene longitud: 73
+[TRACE] 00:45:59:486 Socket/(22317:22396): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:46:05:41 Socket/(22317:22396): lo recibido es: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:55:59:414 Socket/(22929:22929): Lo que se enviara tiene longitud: 73
+[TRACE] 00:55:59:414 Socket/(22929:22929): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:56:31:225 Socket/(22897:22947): Lo que se recibira tiene longitud: 73
+[TRACE] 00:56:42:729 Socket/(22897:22947): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 00:57:49:47 Socket/(22897:22947): lo recibido es: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:06:55:920 Socket/(23462:23462): Lo que se enviara tiene longitud: 73
+[TRACE] 01:06:55:920 Socket/(23462:23462): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:07:07:824 Socket/(23401:23479): Lo que se recibira tiene longitud: 73
+[TRACE] 01:07:10:727 Socket/(23401:23479): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:07:16:812 Socket/(23401:23479): lo recibido es: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:07:41:241 Socket/(23401:23479): Lo que se enviara tiene longitud: 35
+[TRACE] 01:07:42:154 Socket/(23462:23462): Lo que se recibira tiene longitud: 35
+[TRACE] 01:07:43:917 Socket/(23401:23479): Se envio: Esta es la respuesta del servidor.
+[TRACE] 01:07:44:265 Socket/(23462:23462): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 01:07:44:265 Socket/(23462:23462): lo recibido es: Esta es la respuesta del servidor.
+[TRACE] 01:10:04:235 Socket/(23725:23725): Lo que se enviara tiene longitud: 73
+[TRACE] 01:10:04:235 Socket/(23725:23725): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:10:04:236 Socket/(23704:23730): Lo que se recibira tiene longitud: 73
+[TRACE] 01:10:04:236 Socket/(23704:23730): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:10:04:237 Socket/(23704:23730): lo recibido es: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:10:04:237 Socket/(23704:23730): Lo que se enviara tiene longitud: 35
+[TRACE] 01:10:04:238 Socket/(23725:23725): Lo que se recibira tiene longitud: 35
+[TRACE] 01:10:04:238 Socket/(23704:23730): Se envio: Esta es la respuesta del servidor.
+[TRACE] 01:10:04:238 Socket/(23725:23725): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 01:10:04:238 Socket/(23725:23725): lo recibido es: Esta es la respuesta del servidor.
+[TRACE] 01:19:50:876 Socket/(24383:24383): Lo que se enviara tiene longitud: 73
+[TRACE] 01:19:50:877 Socket/(24383:24383): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:19:50:877 Socket/(24360:24388): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 01:19:50:878 Socket/(24360:24388): Lo que se enviara tiene longitud: 35
+[TRACE] 01:19:50:878 Socket/(24360:24388): Se envio: Esta es la respuesta del servidor.
+[TRACE] 01:19:50:878 Socket/(24383:24383): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 12:03:39:165 Socket/(15994:15994): Lo que se enviara tiene longitud: 73
+[TRACE] 12:03:39:165 Socket/(15994:15994): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 12:03:39:166 Socket/(15924:16039): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 12:03:39:166 Socket/(15924:16039): Lo que se enviara tiene longitud: 35
+[TRACE] 12:03:39:167 Socket/(15924:16039): Se envio: Esta es la respuesta del servidor.
+[TRACE] 12:03:49:179 Socket/(15994:15994): Se recibio: Esta es la respuesta del servidor.
+[TRACE] 02:49:53:678 Socket/(18266:18266): Lo que se enviara tiene longitud: 73
+[TRACE] 02:49:58:354 Socket/(18266:18266): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 02:49:59:264 Socket/(18193:18312): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 02:49:59:266 Socket/(18193:18312): Lo que se enviara tiene longitud: 35
+[TRACE] 02:49:59:266 Socket/(18193:18312): Se envio: Esta es la respuesta del servidor.
+[TRACE] 02:50:16:991 Socket/(18266:18266): Se recibio: Esta es la respuesta del servidor.
+[ERROR] 02:55:43:535 Socket/(18193:18483): Ocurrio un error en la funcion recv
+[ERROR] 22:35:32:911 Socket/(22785:22907): Ocurrio un error en la funcion recv
+[TRACE] 22:38:07:284 Socket/(22960:22960): Se envio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:38:08:437 Socket/(22785:23001): Se recibio: #!/usr/bin/ansisop
+begin
+	variables a, b
+	a = 3
+	b = 5
+	a = b + 12
+end
+
+
+[TRACE] 22:38:08:438 Socket/(22785:23001): Se envio: Esta es la respuesta del servidor.
+[TRACE] 22:38:31:790 Socket/(22960:22960): Se recibio: Esta es la respuesta del servidor.
+<<<<<<< HEAD
+[TRACE] 01:28:53:552 Socket/(25563:25563): Se recibio: 
+[TRACE] 01:39:18:711 Socket/(25738:25738): Se recibio: 
+=======
+<<<<<<< HEAD
+[TRACE] 01:40:14:928 Socket/(18422:18451): Se recibio: 
+[TRACE] 01:41:11:387 Socket/(18561:18561): Se envio: 
+[TRACE] 01:41:11:387 Socket/(18422:18564): Se recibio: 
+[TRACE] 01:42:51:308 Socket/(18561:18561): Se recibio: 
+[TRACE] 01:42:51:310 Socket/(18561:18561): Se envio: 
+[ERROR] 01:42:51:310 Socket/(18561:18561): Ocurrio un error en la funcion recv
+[TRACE] 01:43:09:944 Socket/(18660:18660): Se envio: 
+[TRACE] 01:43:09:944 Socket/(18615:18665): Se recibio: 
+[TRACE] 01:43:14:798 Socket/(18615:18665): Se envio: 
+[TRACE] 01:43:14:799 Socket/(18660:18660): Se recibio: 
+[TRACE] 01:43:14:801 Socket/(18660:18660): Se envio: 
+[TRACE] 01:43:31:161 Socket/(18615:18665): Se recibio: 
+[TRACE] 01:43:38:897 Socket/(18615:18665): Se envio: ú
+[TRACE] 01:43:38:936 Socket/(18660:18660): Se recibio: ú
+[ERROR] 01:43:44:628 Socket/(18615:18665): Ocurrio un error en la funcion recv
+[TRACE] 01:44:39:962 Socket/(18750:18750): Se envio: 
+[TRACE] 01:44:39:972 Socket/(18730:18755): Se recibio: 
+[TRACE] 01:44:39:974 Socket/(18730:18755): Se envio: 
+[TRACE] 01:44:39:974 Socket/(18750:18750): Se recibio: 
+[TRACE] 01:44:39:975 Socket/(18750:18750): Se envio: 
+[TRACE] 01:44:40:12 Socket/(18730:18755): Se recibio: 
+[TRACE] 01:44:40:14 Socket/(18730:18755): Se envio: ú
+[TRACE] 01:44:40:52 Socket/(18750:18750): Se recibio: ú
+[ERROR] 01:44:40:53 Socket/(18730:18755): Ocurrio un error en la funcion recv
+[ERROR] 02:05:49:242 Socket/(19462:19462): Ocurrio un error en la funcion recv
+[ERROR] 02:05:49:243 Socket/(19462:19462): Ocurrio un error en la funcion recv
+[TRACE] 02:07:04:828 Socket/(19600:19600): Se envio: 
+[TRACE] 02:07:04:828 Socket/(19600:19600): Se recibio: (null)
+[TRACE] 02:07:04:829 Socket/(19600:19600): Se envio: 
+[TRACE] 02:07:04:829 Socket/(19600:19600): Se recibio: (null)
+[TRACE] 02:08:34:520 Socket/(19652:19652): Se envio: 
+[TRACE] 02:08:34:523 Socket/(19638:19653): Se recibio: 
+[TRACE] 02:09:12:767 Socket/(19638:19653): Se envio: 
+[TRACE] 02:09:12:767 Socket/(19652:19652): Se recibio: 
+[TRACE] 02:09:12:768 Socket/(19652:19652): Se envio: 
+[TRACE] 02:10:39:915 Socket/(19638:19653): Se recibio: 
+[TRACE] 02:10:56:897 Socket/(19638:19653): Se envio: ú
+[TRACE] 02:10:56:936 Socket/(19652:19652): Se recibio: ú
+[ERROR] 02:11:00:71 Socket/(19638:19653): Ocurrio un error en la funcion recv
+[TRACE] 02:11:26:405 Socket/(19720:19720): Se envio: 
+[TRACE] 02:11:26:406 Socket/(19720:19720): Se recibio: (null)
+[TRACE] 02:11:26:406 Socket/(19720:19720): Se envio: 
+[TRACE] 02:11:26:406 Socket/(19720:19720): Se recibio: (null)
+[TRACE] 02:13:54:500 Socket/(19785:19785): Se envio: 
+[TRACE] 02:13:54:500 Socket/(19785:19785): Se recibio: (null)
+[TRACE] 02:13:54:501 Socket/(19785:19785): Se envio: 
+[TRACE] 02:13:54:501 Socket/(19785:19785): Se recibio: (null)
+[TRACE] 02:16:42:107 Socket/(20009:20009): Se envio: 
+[TRACE] 02:16:42:107 Socket/(20009:20009): Se recibio: (null)
+[TRACE] 02:16:42:107 Socket/(20009:20009): Se envio: 
+[TRACE] 02:16:42:108 Socket/(20009:20009): Se recibio: (null)
+[TRACE] 02:17:03:960 Socket/(20034:20034): Se envio: 
+[TRACE] 02:17:03:961 Socket/(20034:20034): Se recibio: (null)
+[TRACE] 02:17:03:961 Socket/(20034:20034): Se envio: 
+[TRACE] 02:17:03:961 Socket/(20034:20034): Se recibio: (null)
+[TRACE] 02:25:28:574 Socket/(20551:20551): Se envio: 
+[TRACE] 02:25:28:580 Socket/(20531:20556): Se recibio: 
+[TRACE] 02:25:28:582 Socket/(20531:20556): Se envio: 
+[TRACE] 02:25:28:582 Socket/(20551:20551): Se recibio: 
+[TRACE] 02:25:28:583 Socket/(20551:20551): Se envio: 
+[TRACE] 02:25:28:620 Socket/(20531:20556): Se recibio: 
+[TRACE] 02:25:28:624 Socket/(20531:20556): Se envio: ú
+[TRACE] 02:25:28:664 Socket/(20551:20551): Se recibio: ú
+[ERROR] 02:25:28:665 Socket/(20531:20556): Ocurrio un error en la funcion recv
+[TRACE] 02:31:16:177 Socket/(20970:20970): Se envio: 
+[TRACE] 02:31:16:177 Socket/(20970:20970): Se recibio: (null)
+[TRACE] 02:31:16:178 Socket/(20970:20970): Se envio: 
+[TRACE] 02:31:16:178 Socket/(20970:20970): Se recibio: (null)
+[TRACE] 02:33:24:392 Socket/(21034:21034): Se envio: 
+[TRACE] 02:33:24:394 Socket/(21021:21035): Se recibio: 
+[TRACE] 02:33:24:395 Socket/(21021:21035): Se envio: 
+[TRACE] 02:33:24:395 Socket/(21034:21034): Se recibio: 
+[TRACE] 02:33:24:396 Socket/(21034:21034): Se envio: 
+[TRACE] 02:33:24:436 Socket/(21021:21035): Se recibio: 
+[TRACE] 02:33:24:438 Socket/(21021:21035): Se envio: ú
+[TRACE] 02:33:24:476 Socket/(21034:21034): Se recibio: ú
+[ERROR] 02:33:24:477 Socket/(21021:21035): Ocurrio un error en la funcion recv
+[TRACE] 02:39:18:120 Socket/(21302:21302): Se envio: 
+[TRACE] 02:39:18:120 Socket/(21300:21303): Se recibio: 
+[TRACE] 02:39:18:120 Socket/(21300:21303): Se envio: 
+[TRACE] 02:39:18:120 Socket/(21302:21302): Se recibio: 
+[TRACE] 02:39:18:120 Socket/(21302:21302): Se envio: 
+[TRACE] 02:39:18:160 Socket/(21300:21303): Se recibio: 
+[TRACE] 02:39:18:160 Socket/(21300:21303): Se envio: ú
+[TRACE] 02:39:18:201 Socket/(21302:21302): Se recibio: ú
+[ERROR] 02:39:18:203 Socket/(21300:21303): Ocurrio un error en la funcion recv
+[ERROR] 02:51:53:798 Socket/(23380:23383): Ocurrio un error en la funcion recv
+[ERROR] 02:52:01:302 Socket/(23385:23388): Ocurrio un error en la funcion recv
+[TRACE] 02:52:27:204 Socket/(23424:23424): Se envio: 
+[TRACE] 02:52:27:204 Socket/(23422:23425): Se recibio: 
+[TRACE] 02:52:27:205 Socket/(23422:23425): Se envio: 
+[TRACE] 02:52:27:205 Socket/(23424:23424): Se recibio: 
+[TRACE] 02:52:27:205 Socket/(23424:23424): Se envio: 
+[TRACE] 02:52:27:244 Socket/(23422:23425): Se recibio: 
+[TRACE] 02:52:27:244 Socket/(23422:23425): Se envio: ú
+[TRACE] 02:52:27:284 Socket/(23424:23424): Se recibio: ú
+[ERROR] 02:52:27:285 Socket/(23422:23425): Ocurrio un error en la funcion recv
+[TRACE] 02:52:35:23 Socket/(23426:23426): Se envio: 
+[TRACE] 02:52:35:23 Socket/(23422:23427): Se recibio: 
+[TRACE] 02:52:35:24 Socket/(23422:23427): Se envio: ô
+[TRACE] 02:52:35:24 Socket/(23426:23426): Se recibio: ô
+[TRACE] 02:52:35:24 Socket/(23426:23426): Se envio: 
+[TRACE] 02:52:35:64 Socket/(23422:23427): Se recibio: 
+[TRACE] 02:52:35:64 Socket/(23422:23427): Se envio: î
+[TRACE] 02:52:35:104 Socket/(23426:23426): Se recibio: î
+[ERROR] 02:52:35:105 Socket/(23422:23427): Ocurrio un error en la funcion recv
+[TRACE] 02:52:43:501 Socket/(23428:23428): Se envio: 
+[TRACE] 02:52:43:501 Socket/(23422:23429): Se recibio: 
+[TRACE] 02:52:43:502 Socket/(23422:23429): Se envio: ÿÿÿÿ2:43
+[TRACE] 02:52:43:502 Socket/(23428:23428): Se recibio: ÿÿÿÿ
+[TRACE] 02:52:43:502 Socket/(23428:23428): Se envio: 
+[TRACE] 02:52:43:540 Socket/(23422:23429): Se recibio: 
+[TRACE] 02:52:43:540 Socket/(23422:23429): Se envio: ÿÿÿÿˆ
+[TRACE] 02:52:43:580 Socket/(23428:23428): Se recibio: ÿÿÿÿp4v·ket/
+[ERROR] 02:52:43:581 Socket/(23422:23429): Ocurrio un error en la funcion recv
+[TRACE] 02:52:47:402 Socket/(23430:23430): Se envio: 
+[TRACE] 02:52:47:402 Socket/(23422:23431): Se recibio: 
+[TRACE] 02:52:47:403 Socket/(23422:23431): Se envio: ÿÿÿÿ2:47
+[TRACE] 02:52:47:403 Socket/(23430:23430): Se recibio: ÿÿÿÿ
+[TRACE] 02:52:47:404 Socket/(23430:23430): Se envio: 
+[TRACE] 02:52:47:444 Socket/(23422:23431): Se recibio: 
+[TRACE] 02:52:47:444 Socket/(23422:23431): Se envio: ÿÿÿÿ  µ:444
+[TRACE] 02:52:47:484 Socket/(23430:23430): Se recibio: ÿÿÿÿpto·ket/
+[ERROR] 02:52:47:485 Socket/(23422:23431): Ocurrio un error en la funcion recv
+[TRACE] 02:53:53:289 Socket/(23440:23440): Se envio: 
+[TRACE] 02:53:53:289 Socket/(23438:23441): Se recibio: 
+[TRACE] 02:53:53:289 Socket/(23438:23441): Se envio: 
+[TRACE] 02:53:53:289 Socket/(23440:23440): Se recibio: 
+[TRACE] 02:53:53:290 Socket/(23440:23440): Se envio: 
+[TRACE] 02:53:53:328 Socket/(23438:23441): Se recibio: 
+[TRACE] 02:53:53:328 Socket/(23438:23441): Se envio: ú
+[TRACE] 02:53:53:368 Socket/(23440:23440): Se recibio: ú
+[ERROR] 02:53:53:369 Socket/(23438:23441): Ocurrio un error en la funcion recv
+[TRACE] 02:53:59:238 Socket/(23442:23442): Se envio: 
+[TRACE] 02:53:59:238 Socket/(23438:23443): Se recibio: 
+[TRACE] 02:53:59:238 Socket/(23438:23443): Se envio: ô
+[TRACE] 02:53:59:238 Socket/(23442:23442): Se recibio: ô
+[TRACE] 02:53:59:238 Socket/(23442:23442): Se envio: 
+[TRACE] 02:53:59:276 Socket/(23438:23443): Se recibio: 
+[TRACE] 02:53:59:276 Socket/(23438:23443): Se envio: î
+[TRACE] 02:53:59:316 Socket/(23442:23442): Se recibio: î
+[ERROR] 02:53:59:317 Socket/(23438:23443): Ocurrio un error en la funcion recv
+[TRACE] 02:54:00:978 Socket/(23444:23444): Se envio: 
+[TRACE] 02:54:00:978 Socket/(23438:23445): Se recibio: 
+[TRACE] 02:54:00:978 Socket/(23438:23445): Se envio: ÿÿÿÿ4:00
+[TRACE] 02:54:00:978 Socket/(23444:23444): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:00:979 Socket/(23444:23444): Se envio: 
+[TRACE] 02:54:01:16 Socket/(23438:23445): Se recibio: 
+[TRACE] 02:54:01:16 Socket/(23438:23445): Se envio: ÿÿÿÿ4:01
+[TRACE] 02:54:01:57 Socket/(23444:23444): Se recibio: ÿÿÿÿp´w·ket/
+[ERROR] 02:54:01:58 Socket/(23438:23445): Ocurrio un error en la funcion recv
+[TRACE] 02:54:01:923 Socket/(23446:23446): Se envio: 
+[TRACE] 02:54:01:923 Socket/(23438:23447): Se recibio: 
+[TRACE] 02:54:01:924 Socket/(23438:23447): Se envio: ÿÿÿÿ4:01
+[TRACE] 02:54:01:924 Socket/(23446:23446): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:01:924 Socket/(23446:23446): Se envio: 
+[TRACE] 02:54:01:965 Socket/(23438:23447): Se recibio: 
+[TRACE] 02:54:01:965 Socket/(23438:23447): Se envio: ÿÿÿÿ4:01
+[TRACE] 02:54:02:4 Socket/(23446:23446): Se recibio: ÿÿÿÿpr·ket/
+[ERROR] 02:54:02:5 Socket/(23438:23447): Ocurrio un error en la funcion recv
+[TRACE] 02:54:02:615 Socket/(23448:23448): Se envio: 
+[TRACE] 02:54:02:615 Socket/(23438:23449): Se recibio: 
+[TRACE] 02:54:02:616 Socket/(23438:23449): Se envio: ÿÿÿÿ4:02
+[TRACE] 02:54:02:616 Socket/(23448:23448): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:02:616 Socket/(23448:23448): Se envio: 
+[TRACE] 02:54:02:656 Socket/(23438:23449): Se recibio: 
+[TRACE] 02:54:02:656 Socket/(23438:23449): Se envio: ÿÿÿÿ4:02
+[TRACE] 02:54:02:696 Socket/(23448:23448): Se recibio: ÿÿÿÿpty·ket/
+[ERROR] 02:54:02:697 Socket/(23438:23449): Ocurrio un error en la funcion recv
+[TRACE] 02:54:03:211 Socket/(23450:23450): Se envio: 
+[TRACE] 02:54:03:211 Socket/(23438:23451): Se recibio: 
+[TRACE] 02:54:03:212 Socket/(23438:23451): Se envio: ÿÿÿÿ4:03
+[TRACE] 02:54:03:212 Socket/(23450:23450): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:03:212 Socket/(23450:23450): Se envio: 
+[TRACE] 02:54:03:252 Socket/(23438:23451): Se recibio: 
+[TRACE] 02:54:03:252 Socket/(23438:23451): Se envio: ÿÿÿÿ4:03
+[TRACE] 02:54:03:292 Socket/(23450:23450): Se recibio: ÿÿÿÿp$y·ket/
+[ERROR] 02:54:03:293 Socket/(23438:23451): Ocurrio un error en la funcion recv
+[TRACE] 02:54:03:718 Socket/(23452:23452): Se envio: 
+[TRACE] 02:54:03:718 Socket/(23438:23453): Se recibio: 
+[TRACE] 02:54:03:719 Socket/(23438:23453): Se envio: ÿÿÿÿ4:03
+[TRACE] 02:54:03:719 Socket/(23452:23452): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:03:719 Socket/(23452:23452): Se envio: 
+[TRACE] 02:54:03:756 Socket/(23438:23453): Se recibio: 
+[TRACE] 02:54:03:756 Socket/(23438:23453): Se envio: ÿÿÿÿ4:03
+[TRACE] 02:54:03:797 Socket/(23452:23452): Se recibio: ÿÿÿÿpôp·ket/
+[ERROR] 02:54:03:798 Socket/(23438:23453): Ocurrio un error en la funcion recv
+[TRACE] 02:54:04:233 Socket/(23454:23454): Se envio: 
+[TRACE] 02:54:04:234 Socket/(23438:23455): Se recibio: 
+[TRACE] 02:54:04:234 Socket/(23438:23455): Se envio: ÿÿÿÿ4:04
+[TRACE] 02:54:04:234 Socket/(23454:23454): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:04:234 Socket/(23454:23454): Se envio: 
+[TRACE] 02:54:04:272 Socket/(23438:23455): Se recibio: 
+[TRACE] 02:54:04:272 Socket/(23438:23455): Se envio: ÿÿÿÿ4:04
+[TRACE] 02:54:04:312 Socket/(23454:23454): Se recibio: ÿÿÿÿpÄx·ket/
+[ERROR] 02:54:04:313 Socket/(23438:23455): Ocurrio un error en la funcion recv
+[TRACE] 02:54:06:98 Socket/(23456:23456): Se envio: 
+[TRACE] 02:54:06:98 Socket/(23438:23457): Se recibio: 
+[TRACE] 02:54:06:98 Socket/(23438:23457): Se envio: ÿÿÿÿ4:06
+[TRACE] 02:54:06:98 Socket/(23456:23456): Se recibio: ÿÿÿÿ4:06
+[TRACE] 02:54:06:99 Socket/(23456:23456): Se envio: 
+[TRACE] 02:54:06:136 Socket/(23438:23457): Se recibio: 
+[TRACE] 02:54:06:136 Socket/(23438:23457): Se envio: ÿÿÿÿ4:06
+[TRACE] 02:54:06:176 Socket/(23456:23456): Se recibio: ÿÿÿÿ4:06
+[ERROR] 02:54:06:178 Socket/(23438:23457): Ocurrio un error en la funcion recv
+[TRACE] 02:54:06:745 Socket/(23458:23458): Se envio: 
+[TRACE] 02:54:06:745 Socket/(23438:23459): Se recibio: 
+[TRACE] 02:54:06:745 Socket/(23438:23459): Se envio: ÿÿÿÿ4:06
+[TRACE] 02:54:06:745 Socket/(23458:23458): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:06:745 Socket/(23458:23458): Se envio: 
+[TRACE] 02:54:06:785 Socket/(23438:23459): Se recibio: 
+[TRACE] 02:54:06:785 Socket/(23438:23459): Se envio: ÿÿÿÿ4:06
+[TRACE] 02:54:06:825 Socket/(23458:23458): Se recibio: ÿÿÿÿpÄk·ket/
+[ERROR] 02:54:06:826 Socket/(23438:23459): Ocurrio un error en la funcion recv
+[TRACE] 02:54:07:376 Socket/(23460:23460): Se envio: 
+[TRACE] 02:54:07:376 Socket/(23438:23461): Se recibio: 
+[TRACE] 02:54:07:376 Socket/(23438:23461): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:07:376 Socket/(23460:23460): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:07:377 Socket/(23460:23460): Se envio: 
+[TRACE] 02:54:07:417 Socket/(23438:23461): Se recibio: 
+[TRACE] 02:54:07:418 Socket/(23438:23461): Se envio: ÿÿÿÿ @¶02:5%
+[TRACE] 02:54:07:457 Socket/(23460:23460): Se recibio: ÿÿÿÿpdu·ket/
+[ERROR] 02:54:07:458 Socket/(23438:23461): Ocurrio un error en la funcion recv
+[TRACE] 02:54:09:727 Socket/(23462:23462): Se envio: 
+[TRACE] 02:54:09:727 Socket/(23438:23463): Se recibio: 
+[TRACE] 02:54:09:727 Socket/(23438:23463): Se envio: ÿÿÿÿ€
+[TRACE] 02:54:09:727 Socket/(23462:23462): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:09:728 Socket/(23462:23462): Se envio: 
+[TRACE] 02:54:09:768 Socket/(23438:23463): Se recibio: 
+[TRACE] 02:54:09:769 Socket/(23438:23463): Se envio: ÿÿÿÿ4:09
+[TRACE] 02:54:09:808 Socket/(23462:23462): Se recibio: ÿÿÿÿptr·ket/
+[ERROR] 02:54:09:809 Socket/(23438:23463): Ocurrio un error en la funcion recv
+[TRACE] 02:54:10:863 Socket/(23464:23464): Se envio: 
+[TRACE] 02:54:10:863 Socket/(23438:23465): Se recibio: 
+[TRACE] 02:54:10:864 Socket/(23438:23465): Se envio: ÿÿÿÿ4:10
+[TRACE] 02:54:10:864 Socket/(23464:23464): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:10:864 Socket/(23464:23464): Se envio: 
+[TRACE] 02:54:10:905 Socket/(23438:23465): Se recibio: 
+[TRACE] 02:54:10:905 Socket/(23438:23465): Se envio: ÿÿÿÿ4:10
+[TRACE] 02:54:10:944 Socket/(23464:23464): Se recibio: ÿÿÿÿpts·ket/
+[ERROR] 02:54:10:945 Socket/(23438:23465): Ocurrio un error en la funcion recv
+[TRACE] 02:54:11:649 Socket/(23466:23466): Se envio: 
+[TRACE] 02:54:11:649 Socket/(23438:23467): Se recibio: 
+[TRACE] 02:54:11:650 Socket/(23438:23467): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:11:650 Socket/(23466:23466): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:11:650 Socket/(23466:23466): Se envio: 
+[TRACE] 02:54:11:688 Socket/(23438:23467): Se recibio: 
+[TRACE] 02:54:11:688 Socket/(23438:23467): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:11:728 Socket/(23466:23466): Se recibio: ÿÿÿÿptm·ket/
+[ERROR] 02:54:11:729 Socket/(23438:23467): Ocurrio un error en la funcion recv
+[TRACE] 02:54:12:363 Socket/(23468:23468): Se envio: 
+[TRACE] 02:54:12:363 Socket/(23438:23469): Se recibio: 
+[TRACE] 02:54:12:363 Socket/(23438:23469): Se envio: ÿÿÿÿ4:12
+[TRACE] 02:54:12:363 Socket/(23468:23468): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:12:364 Socket/(23468:23468): Se envio: 
+[TRACE] 02:54:12:400 Socket/(23438:23469): Se recibio: 
+[TRACE] 02:54:12:400 Socket/(23438:23469): Se envio: ÿÿÿÿ4:12
+[TRACE] 02:54:12:440 Socket/(23468:23468): Se recibio: ÿÿÿÿpDq·ket/
+[ERROR] 02:54:12:441 Socket/(23438:23469): Ocurrio un error en la funcion recv
+[TRACE] 02:54:13:64 Socket/(23470:23470): Se envio: 
+[TRACE] 02:54:13:64 Socket/(23438:23471): Se recibio: 
+[TRACE] 02:54:13:65 Socket/(23438:23471): Se envio: ÿÿÿÿ4:13
+[TRACE] 02:54:13:65 Socket/(23470:23470): Se recibio: ÿÿÿÿ4:13
+[TRACE] 02:54:13:65 Socket/(23470:23470): Se envio: 
+[TRACE] 02:54:13:105 Socket/(23438:23471): Se recibio: 
+[TRACE] 02:54:13:106 Socket/(23438:23471): Se envio: ÿÿÿÿ4:13
+[TRACE] 02:54:13:144 Socket/(23470:23470): Se recibio: ÿÿÿÿ4:13
+[ERROR] 02:54:13:144 Socket/(23438:23471): Ocurrio un error en la funcion recv
+[TRACE] 02:54:13:795 Socket/(23472:23472): Se envio: 
+[TRACE] 02:54:13:796 Socket/(23438:23473): Se recibio: 
+[TRACE] 02:54:13:796 Socket/(23438:23473): Se envio: ÿÿÿÿ4:13
+[TRACE] 02:54:13:796 Socket/(23472:23472): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:13:796 Socket/(23472:23472): Se envio: 
+[TRACE] 02:54:13:836 Socket/(23438:23473): Se recibio: 
+[TRACE] 02:54:13:836 Socket/(23438:23473): Se envio: ÿÿÿÿ4:13
+[TRACE] 02:54:13:877 Socket/(23472:23472): Se recibio: ÿÿÿÿp4x·ket/
+[ERROR] 02:54:13:878 Socket/(23438:23473): Ocurrio un error en la funcion recv
+[TRACE] 02:54:14:369 Socket/(23474:23474): Se envio: 
+[TRACE] 02:54:14:369 Socket/(23438:23475): Se recibio: 
+[TRACE] 02:54:14:369 Socket/(23438:23475): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:14:369 Socket/(23474:23474): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:14:370 Socket/(23474:23474): Se envio: 
+[TRACE] 02:54:14:408 Socket/(23438:23475): Se recibio: 
+[TRACE] 02:54:14:408 Socket/(23438:23475): Se envio: ÿÿÿÿ @¶02:5%
+[TRACE] 02:54:14:448 Socket/(23474:23474): Se recibio: ÿÿÿÿpv·ket/
+[ERROR] 02:54:14:449 Socket/(23438:23475): Ocurrio un error en la funcion recv
+[TRACE] 02:54:14:949 Socket/(23476:23476): Se envio: 
+[TRACE] 02:54:14:949 Socket/(23438:23477): Se recibio: 
+[TRACE] 02:54:14:949 Socket/(23438:23477): Se envio: ÿÿÿÿ€
+[TRACE] 02:54:14:950 Socket/(23476:23476): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:14:950 Socket/(23476:23476): Se envio: 
+[TRACE] 02:54:14:988 Socket/(23438:23477): Se recibio: 
+[TRACE] 02:54:14:988 Socket/(23438:23477): Se envio: ÿÿÿÿ4:14
+[TRACE] 02:54:15:28 Socket/(23476:23476): Se recibio: ÿÿÿÿpDk·ket/
+[ERROR] 02:54:15:29 Socket/(23438:23477): Ocurrio un error en la funcion recv
+[TRACE] 02:54:15:565 Socket/(23478:23478): Se envio: 
+[TRACE] 02:54:15:565 Socket/(23438:23479): Se recibio: 
+[TRACE] 02:54:15:566 Socket/(23438:23479): Se envio: ÿÿÿÿ4:15
+[TRACE] 02:54:15:566 Socket/(23478:23478): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:15:566 Socket/(23478:23478): Se envio: 
+[TRACE] 02:54:15:604 Socket/(23438:23479): Se recibio: 
+[TRACE] 02:54:15:605 Socket/(23438:23479): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:15:644 Socket/(23478:23478): Se recibio: ÿÿÿÿp„j·ket/
+[ERROR] 02:54:15:645 Socket/(23438:23479): Ocurrio un error en la funcion recv
+[TRACE] 02:54:16:184 Socket/(23480:23480): Se envio: 
+[TRACE] 02:54:16:184 Socket/(23438:23481): Se recibio: 
+[TRACE] 02:54:16:184 Socket/(23438:23481): Se envio: ÿÿÿÿÀ,@¶:184
+[TRACE] 02:54:16:184 Socket/(23480:23480): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:16:185 Socket/(23480:23480): Se envio: 
+[TRACE] 02:54:16:225 Socket/(23438:23481): Se recibio: 
+[TRACE] 02:54:16:226 Socket/(23438:23481): Se envio: ÿÿÿÿ4:16
+[TRACE] 02:54:16:264 Socket/(23480:23480): Se recibio: ÿÿÿÿpdp·ket/
+[ERROR] 02:54:16:266 Socket/(23438:23481): Ocurrio un error en la funcion recv
+[TRACE] 02:54:16:706 Socket/(23482:23482): Se envio: 
+[TRACE] 02:54:16:706 Socket/(23438:23483): Se recibio: 
+[TRACE] 02:54:16:707 Socket/(23438:23483): Se envio: ÿÿÿÿ4:16
+[TRACE] 02:54:16:707 Socket/(23482:23482): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:16:707 Socket/(23482:23482): Se envio: 
+[TRACE] 02:54:16:744 Socket/(23438:23483): Se recibio: 
+[TRACE] 02:54:16:745 Socket/(23438:23483): Se envio: ÿÿÿÿh8@¶
+[TRACE] 02:54:16:784 Socket/(23482:23482): Se recibio: ÿÿÿÿp´u·ket/
+[ERROR] 02:54:16:785 Socket/(23438:23483): Ocurrio un error en la funcion recv
+[TRACE] 02:54:17:326 Socket/(23484:23484): Se envio: 
+[TRACE] 02:54:17:326 Socket/(23438:23485): Se recibio: 
+[TRACE] 02:54:17:327 Socket/(23438:23485): Se envio: ÿÿÿÿX
+[TRACE] 02:54:17:327 Socket/(23484:23484): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:17:327 Socket/(23484:23484): Se envio: 
+[TRACE] 02:54:17:365 Socket/(23438:23485): Se recibio: 
+[TRACE] 02:54:17:365 Socket/(23438:23485): Se envio: ÿÿÿÿ4:17
+[TRACE] 02:54:17:404 Socket/(23484:23484): Se recibio: ÿÿÿÿpôn·ket/
+[ERROR] 02:54:17:405 Socket/(23438:23485): Ocurrio un error en la funcion recv
+[TRACE] 02:54:18:18 Socket/(23486:23486): Se envio: 
+[TRACE] 02:54:18:18 Socket/(23438:23487): Se recibio: 
+[TRACE] 02:54:18:19 Socket/(23438:23487): Se envio: ÿÿÿÿ4:18
+[TRACE] 02:54:18:19 Socket/(23486:23486): Se recibio: ÿÿÿÿ4:18
+[TRACE] 02:54:18:19 Socket/(23486:23486): Se envio: 
+[TRACE] 02:54:18:56 Socket/(23438:23487): Se recibio: 
+[TRACE] 02:54:18:56 Socket/(23438:23487): Se envio: ÿÿÿÿ4:18
+[TRACE] 02:54:18:97 Socket/(23486:23486): Se recibio: ÿÿÿÿ4:18
+[ERROR] 02:54:18:100 Socket/(23438:23487): Ocurrio un error en la funcion recv
+[TRACE] 02:54:18:690 Socket/(23488:23488): Se envio: 
+[TRACE] 02:54:18:690 Socket/(23438:23489): Se recibio: 
+[TRACE] 02:54:18:691 Socket/(23438:23489): Se envio: ÿÿÿÿ4:18
+[TRACE] 02:54:18:691 Socket/(23488:23488): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:18:691 Socket/(23488:23488): Se envio: 
+[TRACE] 02:54:18:728 Socket/(23438:23489): Se recibio: 
+[TRACE] 02:54:18:728 Socket/(23438:23489): Se envio: ÿÿÿÿ4:18
+[TRACE] 02:54:18:768 Socket/(23488:23488): Se recibio: ÿÿÿÿpts·ket/
+[ERROR] 02:54:18:769 Socket/(23438:23489): Ocurrio un error en la funcion recv
+[TRACE] 02:54:20:113 Socket/(23490:23490): Se envio: 
+[TRACE] 02:54:20:113 Socket/(23438:23491): Se recibio: 
+[TRACE] 02:54:20:113 Socket/(23438:23491): Se envio: ÿÿÿÿ4:20
+[TRACE] 02:54:20:113 Socket/(23490:23490): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:20:114 Socket/(23490:23490): Se envio: 
+[TRACE] 02:54:20:153 Socket/(23438:23491): Se recibio: 
+[TRACE] 02:54:20:154 Socket/(23438:23491): Se envio: ÿÿÿÿ4:20
+[TRACE] 02:54:20:193 Socket/(23490:23490): Se recibio: ÿÿÿÿpTl·ket/
+[ERROR] 02:54:20:194 Socket/(23438:23491): Ocurrio un error en la funcion recv
+[TRACE] 02:54:20:866 Socket/(23492:23492): Se envio: 
+[TRACE] 02:54:20:866 Socket/(23438:23493): Se recibio: 
+[TRACE] 02:54:20:867 Socket/(23438:23493): Se envio: ÿÿÿÿ4:20
+[TRACE] 02:54:20:867 Socket/(23492:23492): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:20:867 Socket/(23492:23492): Se envio: 
+[TRACE] 02:54:20:904 Socket/(23438:23493): Se recibio: 
+[TRACE] 02:54:20:905 Socket/(23438:23493): Se envio: ÿÿÿÿ4:20
+[TRACE] 02:54:20:946 Socket/(23492:23492): Se recibio: ÿÿÿÿp”q·ket/
+[ERROR] 02:54:20:947 Socket/(23438:23493): Ocurrio un error en la funcion recv
+[TRACE] 02:54:21:451 Socket/(23494:23494): Se envio: 
+[TRACE] 02:54:21:451 Socket/(23438:23495): Se recibio: 
+[TRACE] 02:54:21:451 Socket/(23438:23495): Se envio: ÿÿÿÿ @¶
+[TRACE] 02:54:21:451 Socket/(23494:23494): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:21:452 Socket/(23494:23494): Se envio: 
+[TRACE] 02:54:21:488 Socket/(23438:23495): Se recibio: 
+[TRACE] 02:54:21:489 Socket/(23438:23495): Se envio: ÿÿÿÿ @¶02:5%
+[TRACE] 02:54:21:529 Socket/(23494:23494): Se recibio: ÿÿÿÿpôn·ket/
+[ERROR] 02:54:21:530 Socket/(23438:23495): Ocurrio un error en la funcion recv
+[TRACE] 02:54:22:5 Socket/(23496:23496): Se envio: 
+[TRACE] 02:54:22:5 Socket/(23438:23497): Se recibio: 
+[TRACE] 02:54:22:6 Socket/(23438:23497): Se envio: ÿÿÿÿ€
+[TRACE] 02:54:22:6 Socket/(23496:23496): Se recibio: ÿÿÿÿ4:22
+[TRACE] 02:54:22:6 Socket/(23496:23496): Se envio: 
+[TRACE] 02:54:22:44 Socket/(23438:23497): Se recibio: 
+[TRACE] 02:54:22:44 Socket/(23438:23497): Se envio: ÿÿÿÿ4:22
+[TRACE] 02:54:22:89 Socket/(23496:23496): Se recibio: ÿÿÿÿ4:22
+[ERROR] 02:54:22:90 Socket/(23438:23497): Ocurrio un error en la funcion recv
+[TRACE] 02:54:22:776 Socket/(23498:23498): Se envio: 
+[TRACE] 02:54:22:776 Socket/(23438:23499): Se recibio: 
+[TRACE] 02:54:22:777 Socket/(23438:23499): Se envio: ÿÿÿÿ4:22
+[TRACE] 02:54:22:777 Socket/(23498:23498): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:22:778 Socket/(23498:23498): Se envio: 
+[TRACE] 02:54:22:816 Socket/(23438:23499): Se recibio: 
+[TRACE] 02:54:22:816 Socket/(23438:23499): Se envio: ÿÿÿÿ4:22
+[TRACE] 02:54:22:857 Socket/(23498:23498): Se recibio: ÿÿÿÿptx·ket/
+[ERROR] 02:54:22:858 Socket/(23438:23499): Ocurrio un error en la funcion recv
+[TRACE] 02:54:23:346 Socket/(23500:23500): Se envio: 
+[TRACE] 02:54:23:346 Socket/(23438:23501): Se recibio: 
+[TRACE] 02:54:23:347 Socket/(23438:23501): Se envio: ÿÿÿÿ4:23
+[TRACE] 02:54:23:347 Socket/(23500:23500): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:23:347 Socket/(23500:23500): Se envio: 
+[TRACE] 02:54:23:385 Socket/(23438:23501): Se recibio: 
+[TRACE] 02:54:23:386 Socket/(23438:23501): Se envio: ÿÿÿÿ4:23
+[TRACE] 02:54:23:424 Socket/(23500:23500): Se recibio: ÿÿÿÿp¤x·ket/
+[ERROR] 02:54:23:425 Socket/(23438:23501): Ocurrio un error en la funcion recv
+[TRACE] 02:54:23:927 Socket/(23502:23502): Se envio: 
+[TRACE] 02:54:23:927 Socket/(23438:23503): Se recibio: 
+[TRACE] 02:54:23:928 Socket/(23438:23503): Se envio: ÿÿÿÿ4:23
+[TRACE] 02:54:23:928 Socket/(23502:23502): Se recibio: ÿÿÿÿ
+[TRACE] 02:54:23:928 Socket/(23502:23502): Se envio: 
+[TRACE] 02:54:23:969 Socket/(23438:23503): Se recibio: 
+[TRACE] 02:54:23:969 Socket/(23438:23503): Se envio: ÿÿÿÿ4:23
+[TRACE] 02:54:24:9 Socket/(23502:23502): Se recibio: ÿÿÿÿpÄn·ket/
+[ERROR] 02:54:24:10 Socket/(23438:23503): Ocurrio un error en la funcion recv
+[TRACE] 02:57:20:195 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:195 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:195 Socket/(23578:23581): Se envio: 
+[TRACE] 02:57:20:196 Socket/(23580:23580): Se recibio: 
+[TRACE] 02:57:20:196 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:236 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:236 Socket/(23578:23581): Se envio: ú
+[TRACE] 02:57:20:276 Socket/(23580:23580): Se recibio: ú
+[TRACE] 02:57:20:276 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:316 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:317 Socket/(23578:23581): Se envio: ô
+[TRACE] 02:57:20:357 Socket/(23580:23580): Se recibio: ô
+[TRACE] 02:57:20:357 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:396 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:396 Socket/(23578:23581): Se envio: î
+[TRACE] 02:57:20:437 Socket/(23580:23580): Se recibio: î
+[TRACE] 02:57:20:437 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:476 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:476 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:517 Socket/(23580:23580): Se recibio: ÿÿÿÿ°$v·:357
+[TRACE] 02:57:20:517 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:556 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:556 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:597 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:597 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:636 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:637 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:676 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·ket/
+[TRACE] 02:57:20:676 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:717 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:717 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:756 Socket/(23580:23580): Se recibio: ÿÿÿÿ$v·
+[TRACE] 02:57:20:756 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:796 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:796 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:837 Socket/(23580:23580): Se recibio: ÿÿÿÿ$v·:756
+[TRACE] 02:57:20:837 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:878 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:878 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:916 Socket/(23580:23580): Se recibio: ÿÿÿÿ°Â‰02:5
+[TRACE] 02:57:20:916 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:20:957 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:20:957 Socket/(23578:23581): Se envio: ÿÿÿÿ7:20
+[TRACE] 02:57:20:996 Socket/(23580:23580): Se recibio: ÿÿÿÿˆ$v·5
+[TRACE] 02:57:20:996 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:36 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:36 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:76 Socket/(23580:23580): Se recibio: ÿÿÿÿ˜$v·02:5
+[TRACE] 02:57:21:76 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:117 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:117 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:157 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:21:157 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:196 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:196 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:236 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:21:236 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:276 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:276 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:316 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:21:316 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:356 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:356 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:396 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:21:396 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:437 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:438 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:476 Socket/(23580:23580): Se recibio: ÿÿÿÿ580:2358
+[TRACE] 02:57:21:476 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:516 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:516 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:556 Socket/(23580:23580): Se recibio: ÿÿÿÿx%v·02:5
+[TRACE] 02:57:21:556 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:596 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:596 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:636 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:21:636 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:677 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:678 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:716 Socket/(23580:23580): Se recibio: ÿÿÿÿ%v·02:5
+[TRACE] 02:57:21:716 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:756 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:756 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:796 Socket/(23580:23580): Se recibio: ÿÿÿÿo: ÿÿÿÿ5
+[TRACE] 02:57:21:796 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:836 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:836 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:876 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:796
+[TRACE] 02:57:21:876 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:916 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:916 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:21:957 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:876
+[TRACE] 02:57:21:957 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:21:997 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:21:997 Socket/(23578:23581): Se envio: ÿÿÿÿ7:21
+[TRACE] 02:57:22:36 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:22:36 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:77 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:78 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:116 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·(235
+[TRACE] 02:57:22:116 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:156 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:156 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:197 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:22:198 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:236 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:236 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:277 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:22:277 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:316 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:316 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:356 Socket/(23580:23580): Se recibio: ÿÿÿÿ580:2358
+[TRACE] 02:57:22:356 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:396 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:397 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:437 Socket/(23580:23580): Se recibio: ÿÿÿÿx%v·02:5
+[TRACE] 02:57:22:437 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:476 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:476 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:516 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:22:516 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:557 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:557 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:596 Socket/(23580:23580): Se recibio: ÿÿÿÿ%v·02:5
+[TRACE] 02:57:22:596 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:637 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:637 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:678 Socket/(23580:23580): Se recibio: ÿÿÿÿo: ÿÿÿÿ5
+[TRACE] 02:57:22:681 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:720 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:720 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:760 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:680
+[TRACE] 02:57:22:760 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:800 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:801 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:841 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:760
+[TRACE] 02:57:22:841 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:880 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:880 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:921 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:22:921 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:22:962 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:22:962 Socket/(23578:23581): Se envio: ÿÿÿÿ7:22
+[TRACE] 02:57:22:1 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:22:1 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:40 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:40 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:82 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·2358
+[TRACE] 02:57:23:82 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:121 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:122 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:160 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:160 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:200 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:200 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:241 Socket/(23580:23580): Se recibio: ÿÿÿÿ(23580:2
+[TRACE] 02:57:23:242 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:280 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:281 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:320 Socket/(23580:23580): Se recibio: ÿÿÿÿx%v·02:5
+[TRACE] 02:57:23:321 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:360 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:360 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:400 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:23:400 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:440 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:440 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:481 Socket/(23580:23580): Se recibio: ÿÿÿÿ%v·02:5
+[TRACE] 02:57:23:481 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:521 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:521 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:560 Socket/(23580:23580): Se recibio: ÿÿÿÿo: ÿÿÿÿ(
+[TRACE] 02:57:23:560 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:600 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:600 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:640 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:560
+[TRACE] 02:57:23:640 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:681 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:681 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:721 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:640
+[TRACE] 02:57:23:721 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:760 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:760 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:801 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:23:801 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:841 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:841 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:880 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:23:880 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:920 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:920 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:23:960 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:23:960 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:23:0 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:23:0 Socket/(23578:23581): Se envio: ÿÿÿÿ7:23
+[TRACE] 02:57:24:40 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:24:40 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:80 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:80 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:120 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:120 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:160 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:160 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:201 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:201 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:240 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:240 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:281 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v· 
+[TRACE] 02:57:24:281 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:320 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:321 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:360 Socket/(23580:23580): Se recibio: ÿÿÿÿ°%v·02:5
+[TRACE] 02:57:24:361 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:401 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:401 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:440 Socket/(23580:23580): Se recibio: ÿÿÿÿ%v·
+[TRACE] 02:57:24:440 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:480 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:480 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:521 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:521 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:560 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:561 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:601 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:601 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:640 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:641 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:680 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:681 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:720 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:720 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:760 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:760 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:801 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:801 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:841 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:24:841 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:881 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:882 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:920 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:24:920 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:24:961 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:24:961 Socket/(23578:23581): Se envio: ÿÿÿÿ7:24
+[TRACE] 02:57:24:0 Socket/(23580:23580): Se recibio: ÿÿÿÿ580:2358
+[TRACE] 02:57:24:0 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:40 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:40 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:81 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:24
+[TRACE] 02:57:25:81 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:121 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:121 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:160 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:160 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:200 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:200 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:240 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:240 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:281 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:281 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:320 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:320 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:361 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:361 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:400 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·2358
+[TRACE] 02:57:25:400 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:440 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:440 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:480 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·:400
+[TRACE] 02:57:25:480 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:520 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:520 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:560 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:25:560 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:600 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:600 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:640 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:25:640 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:681 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:682 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:720 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:25:720 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:760 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:760 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:801 Socket/(23580:23580): Se recibio: ÿÿÿÿ
+[TRACE] 02:57:25:801 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:840 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:840 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:880 Socket/(23580:23580): Se recibio: ÿÿÿÿ580:2358
+[TRACE] 02:57:25:880 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:920 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:921 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:25:960 Socket/(23580:23580): Se recibio: ÿÿÿÿx%v·02:5
+[TRACE] 02:57:25:961 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:25:0 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:25:0 Socket/(23578:23581): Se envio: ÿÿÿÿ7:25
+[TRACE] 02:57:26:40 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:26:40 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:80 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:80 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:122 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:122 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:160 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:160 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:200 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·
+[TRACE] 02:57:26:200 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:240 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:240 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:280 Socket/(23580:23580): Se recibio: ÿÿÿÿð$v·02:5
+[TRACE] 02:57:26:280 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:320 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:320 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:360 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:26:360 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:400 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:400 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:440 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·/(23
+[TRACE] 02:57:26:440 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:480 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:480 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:521 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:521 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:560 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:560 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:600 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·¸Ó‰
+[TRACE] 02:57:26:600 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:640 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:640 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:680 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:680 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:720 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:720 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:761 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·Ô‰
+[TRACE] 02:57:26:761 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:800 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:800 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:840 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:840 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:880 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:880 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:920 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:26:840
+[TRACE] 02:57:26:920 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:26:960 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:26:960 Socket/(23578:23581): Se envio: ÿÿÿÿ7:26
+[TRACE] 02:57:26:0 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·2358
+[TRACE] 02:57:26:0 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:40 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:40 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:80 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·
+[TRACE] 02:57:27:80 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:120 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:120 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:161 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:161 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:200 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:200 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:240 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·
+[TRACE] 02:57:27:240 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:280 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:280 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:320 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:27:320 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:361 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:361 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:400 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·02:5
+[TRACE] 02:57:27:400 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:441 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:441 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:480 Socket/(23580:23580): Se recibio: ÿÿÿÿˆ$v·/(23
+[TRACE] 02:57:27:481 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:521 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:521 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:562 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:562 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:600 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:600 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:640 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·`Õ‰
+[TRACE] 02:57:27:640 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:680 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:681 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:720 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:720 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:760 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:760 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:801 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·°Õ‰
+[TRACE] 02:57:27:801 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:840 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:840 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:880 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:880 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:921 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:921 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:27:960 Socket/(23580:23580): Se recibio: ÿÿÿÿ7:27:880
+[TRACE] 02:57:27:960 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:27:0 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:27:1 Socket/(23578:23581): Se envio: ÿÿÿÿ7:27
+[TRACE] 02:57:28:41 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·2358
+[TRACE] 02:57:28:41 Socket/(23580:23580): Se envio: 
+[TRACE] 02:57:28:80 Socket/(23578:23581): Se recibio: 
+[TRACE] 02:57:28:80 Socket/(23578:23581): Se envio: ÿÿÿÿ7:28
+[TRACE] 02:57:28:121 Socket/(23580:23580): Se recibio: ÿÿÿÿp$v·
+[ERROR] 02:57:28:123 Socket/(23578:23581): Ocurrio un error en la funcion recv
+[TRACE] 02:57:45:172 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:172 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:173 Socket/(23597:23600): Se envio: 
+[TRACE] 02:57:45:173 Socket/(23599:23599): Se recibio: 
+[TRACE] 02:57:45:173 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:212 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:212 Socket/(23597:23600): Se envio: ú
+[TRACE] 02:57:45:252 Socket/(23599:23599): Se recibio: ú
+[TRACE] 02:57:45:252 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:292 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:292 Socket/(23597:23600): Se envio: ô
+[TRACE] 02:57:45:332 Socket/(23599:23599): Se recibio: ô
+[TRACE] 02:57:45:332 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:372 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:372 Socket/(23597:23600): Se envio: î
+[TRACE] 02:57:45:413 Socket/(23599:23599): Se recibio: î
+[TRACE] 02:57:45:413 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:453 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:453 Socket/(23597:23600): Se envio: è
+[TRACE] 02:57:45:492 Socket/(23599:23599): Se recibio: è
+[TRACE] 02:57:45:492 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:534 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:534 Socket/(23597:23600): Se envio: â
+[TRACE] 02:57:45:572 Socket/(23599:23599): Se recibio: â
+[TRACE] 02:57:45:572 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:612 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:613 Socket/(23597:23600): Se envio: Ü
+[TRACE] 02:57:45:653 Socket/(23599:23599): Se recibio: Ü
+[TRACE] 02:57:45:653 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:693 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:694 Socket/(23597:23600): Se envio: Ö
+[TRACE] 02:57:45:732 Socket/(23599:23599): Se recibio: Ö
+[TRACE] 02:57:45:732 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:772 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:772 Socket/(23597:23600): Se envio: Ð
+[TRACE] 02:57:45:812 Socket/(23599:23599): Se recibio: Ð
+[TRACE] 02:57:45:812 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:852 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:852 Socket/(23597:23600): Se envio: Ê
+[TRACE] 02:57:45:892 Socket/(23599:23599): Se recibio: Ê
+[TRACE] 02:57:45:892 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:45:932 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:45:932 Socket/(23597:23600): Se envio: Ä	
+[TRACE] 02:57:45:972 Socket/(23599:23599): Se recibio: Ä	
+[TRACE] 02:57:45:972 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:13 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:14 Socket/(23597:23600): Se envio: ¾
+
+[TRACE] 02:57:46:53 Socket/(23599:23599): Se recibio: ¾
+
+[TRACE] 02:57:46:54 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:92 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:92 Socket/(23597:23600): Se envio: ¸
+[TRACE] 02:57:46:132 Socket/(23599:23599): Se recibio: ¸
+[TRACE] 02:57:46:132 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:172 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:172 Socket/(23597:23600): Se envio: ²
+[TRACE] 02:57:46:212 Socket/(23599:23599): Se recibio: ²
+[TRACE] 02:57:46:212 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:254 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:255 Socket/(23597:23600): Se envio: ¬
+[TRACE] 02:57:46:292 Socket/(23599:23599): Se recibio: ¬
+[TRACE] 02:57:46:292 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:332 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:332 Socket/(23597:23600): Se envio: ¦
+[TRACE] 02:57:46:372 Socket/(23599:23599): Se recibio: ¦
+[TRACE] 02:57:46:373 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:412 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:412 Socket/(23597:23600): Se envio:  
+[TRACE] 02:57:46:452 Socket/(23599:23599): Se recibio:  
+[TRACE] 02:57:46:452 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:494 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:494 Socket/(23597:23600): Se envio: š
+[TRACE] 02:57:46:532 Socket/(23599:23599): Se recibio: š
+[TRACE] 02:57:46:532 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:572 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:572 Socket/(23597:23600): Se envio: ”
+[TRACE] 02:57:46:612 Socket/(23599:23599): Se recibio: ”
+[TRACE] 02:57:46:612 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:652 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:652 Socket/(23597:23600): Se envio: Ž
+[TRACE] 02:57:46:692 Socket/(23599:23599): Se recibio: Ž
+[TRACE] 02:57:46:692 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:732 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:732 Socket/(23597:23600): Se envio: ˆ
+[TRACE] 02:57:46:773 Socket/(23599:23599): Se recibio: ˆ
+[TRACE] 02:57:46:773 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:813 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:813 Socket/(23597:23600): Se envio: ‚
+[TRACE] 02:57:46:852 Socket/(23599:23599): Se recibio: ‚
+[TRACE] 02:57:46:853 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:892 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:893 Socket/(23597:23600): Se envio: |
+[TRACE] 02:57:46:932 Socket/(23599:23599): Se recibio: |
+[TRACE] 02:57:46:932 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:46:973 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:46:973 Socket/(23597:23600): Se envio: v
+[TRACE] 02:57:47:13 Socket/(23599:23599): Se recibio: v
+[TRACE] 02:57:47:13 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:52 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:52 Socket/(23597:23600): Se envio: p
+[TRACE] 02:57:47:92 Socket/(23599:23599): Se recibio: p
+[TRACE] 02:57:47:92 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:132 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:132 Socket/(23597:23600): Se envio: j
+[TRACE] 02:57:47:173 Socket/(23599:23599): Se recibio: j
+[TRACE] 02:57:47:173 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:212 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:212 Socket/(23597:23600): Se envio: d
+[TRACE] 02:57:47:252 Socket/(23599:23599): Se recibio: d
+[TRACE] 02:57:47:252 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:292 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:292 Socket/(23597:23600): Se envio: ^
+[TRACE] 02:57:47:332 Socket/(23599:23599): Se recibio: ^
+[TRACE] 02:57:47:332 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:373 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:374 Socket/(23597:23600): Se envio: X
+[TRACE] 02:57:47:412 Socket/(23599:23599): Se recibio: X
+[TRACE] 02:57:47:412 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:453 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:453 Socket/(23597:23600): Se envio: R
+[TRACE] 02:57:47:492 Socket/(23599:23599): Se recibio: R
+[TRACE] 02:57:47:492 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:532 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:533 Socket/(23597:23600): Se envio: L
+[TRACE] 02:57:47:574 Socket/(23599:23599): Se recibio: L
+[TRACE] 02:57:47:574 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:612 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:613 Socket/(23597:23600): Se envio: F
+[TRACE] 02:57:47:652 Socket/(23599:23599): Se recibio: F
+[TRACE] 02:57:47:652 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:692 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:693 Socket/(23597:23600): Se envio: @
+[TRACE] 02:57:47:733 Socket/(23599:23599): Se recibio: @
+[TRACE] 02:57:47:733 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:773 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:774 Socket/(23597:23600): Se envio: : 
+[TRACE] 02:57:47:812 Socket/(23599:23599): Se recibio: : 
+[TRACE] 02:57:47:812 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:853 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:853 Socket/(23597:23600): Se envio: 4!
+[TRACE] 02:57:47:892 Socket/(23599:23599): Se recibio: 4!
+[TRACE] 02:57:47:892 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:47:933 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:47:933 Socket/(23597:23600): Se envio: ."
+[TRACE] 02:57:47:973 Socket/(23599:23599): Se recibio: ."
+[TRACE] 02:57:47:973 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:12 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:12 Socket/(23597:23600): Se envio: (#
+[TRACE] 02:57:48:52 Socket/(23599:23599): Se recibio: (#
+[TRACE] 02:57:48:52 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:93 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:94 Socket/(23597:23600): Se envio: "$
+[TRACE] 02:57:48:132 Socket/(23599:23599): Se recibio: "$
+[TRACE] 02:57:48:133 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:172 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:172 Socket/(23597:23600): Se envio: %
+[TRACE] 02:57:48:212 Socket/(23599:23599): Se recibio: %
+[TRACE] 02:57:48:212 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:252 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:252 Socket/(23597:23600): Se envio: &
+[TRACE] 02:57:48:292 Socket/(23599:23599): Se recibio: &
+[TRACE] 02:57:48:292 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:332 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:332 Socket/(23597:23600): Se envio: '
+[TRACE] 02:57:48:372 Socket/(23599:23599): Se recibio: '
+[TRACE] 02:57:48:372 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:412 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:412 Socket/(23597:23600): Se envio: 
+(
+[TRACE] 02:57:48:453 Socket/(23599:23599): Se recibio: 
+(
+[TRACE] 02:57:48:453 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:492 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:492 Socket/(23597:23600): Se envio: )
+[TRACE] 02:57:48:532 Socket/(23599:23599): Se recibio: )
+[TRACE] 02:57:48:532 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:572 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:572 Socket/(23597:23600): Se envio: þ)
+[TRACE] 02:57:48:614 Socket/(23599:23599): Se recibio: þ)
+[TRACE] 02:57:48:614 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:652 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:652 Socket/(23597:23600): Se envio: ø*
+[TRACE] 02:57:48:692 Socket/(23599:23599): Se recibio: ø*
+[TRACE] 02:57:48:692 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:732 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:732 Socket/(23597:23600): Se envio: ò+
+[TRACE] 02:57:48:772 Socket/(23599:23599): Se recibio: ò+
+[TRACE] 02:57:48:772 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:812 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:812 Socket/(23597:23600): Se envio: ì,
+[TRACE] 02:57:48:852 Socket/(23599:23599): Se recibio: ì,
+[TRACE] 02:57:48:852 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:892 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:892 Socket/(23597:23600): Se envio: æ-
+[TRACE] 02:57:48:932 Socket/(23599:23599): Se recibio: æ-
+[TRACE] 02:57:48:932 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:48:973 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:48:973 Socket/(23597:23600): Se envio: à.
+[TRACE] 02:57:49:12 Socket/(23599:23599): Se recibio: à.
+[TRACE] 02:57:49:12 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:53 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:53 Socket/(23597:23600): Se envio: Ú/
+[TRACE] 02:57:49:93 Socket/(23599:23599): Se recibio: Ú/
+[TRACE] 02:57:49:93 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:133 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:134 Socket/(23597:23600): Se envio: Ô0
+[TRACE] 02:57:49:172 Socket/(23599:23599): Se recibio: Ô0
+[TRACE] 02:57:49:172 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:213 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:213 Socket/(23597:23600): Se envio: Î1
+[TRACE] 02:57:49:252 Socket/(23599:23599): Se recibio: Î1
+[TRACE] 02:57:49:252 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:292 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:292 Socket/(23597:23600): Se envio: È2
+[TRACE] 02:57:49:332 Socket/(23599:23599): Se recibio: È2
+[TRACE] 02:57:49:333 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:372 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:372 Socket/(23597:23600): Se envio: Â3
+[TRACE] 02:57:49:412 Socket/(23599:23599): Se recibio: Â3
+[TRACE] 02:57:49:412 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:452 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:452 Socket/(23597:23600): Se envio: ¼4
+[TRACE] 02:57:49:492 Socket/(23599:23599): Se recibio: ¼4
+[TRACE] 02:57:49:492 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:532 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:533 Socket/(23597:23600): Se envio: ¶5
+[TRACE] 02:57:49:572 Socket/(23599:23599): Se recibio: ¶5
+[TRACE] 02:57:49:572 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:612 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:612 Socket/(23597:23600): Se envio: °6
+[TRACE] 02:57:49:652 Socket/(23599:23599): Se recibio: °6
+[TRACE] 02:57:49:652 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:693 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:694 Socket/(23597:23600): Se envio: ª7
+[TRACE] 02:57:49:732 Socket/(23599:23599): Se recibio: ª7
+[TRACE] 02:57:49:732 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:773 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:773 Socket/(23597:23600): Se envio: ¤8
+[TRACE] 02:57:49:812 Socket/(23599:23599): Se recibio: ¤8
+[TRACE] 02:57:49:812 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:853 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:853 Socket/(23597:23600): Se envio: ž9
+[TRACE] 02:57:49:892 Socket/(23599:23599): Se recibio: ž9
+[TRACE] 02:57:49:892 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:49:933 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:49:933 Socket/(23597:23600): Se envio: ˜:
+[TRACE] 02:57:49:973 Socket/(23599:23599): Se recibio: ˜:
+[TRACE] 02:57:49:973 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:13 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:14 Socket/(23597:23600): Se envio: ’;
+[TRACE] 02:57:50:53 Socket/(23599:23599): Se recibio: ’;
+[TRACE] 02:57:50:53 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:92 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:92 Socket/(23597:23600): Se envio: Œ<
+[TRACE] 02:57:50:132 Socket/(23599:23599): Se recibio: Œ<
+[TRACE] 02:57:50:132 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:172 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:172 Socket/(23597:23600): Se envio: †=
+[TRACE] 02:57:50:212 Socket/(23599:23599): Se recibio: †=
+[TRACE] 02:57:50:212 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:253 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:253 Socket/(23597:23600): Se envio: €>
+[TRACE] 02:57:50:292 Socket/(23599:23599): Se recibio: €>
+[TRACE] 02:57:50:292 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:332 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:332 Socket/(23597:23600): Se envio: z?
+[TRACE] 02:57:50:372 Socket/(23599:23599): Se recibio: z?
+[TRACE] 02:57:50:372 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:413 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:413 Socket/(23597:23600): Se envio: t@
+[TRACE] 02:57:50:452 Socket/(23599:23599): Se recibio: t@
+[TRACE] 02:57:50:452 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:492 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:492 Socket/(23597:23600): Se envio: nA
+[TRACE] 02:57:50:532 Socket/(23599:23599): Se recibio: nA
+[TRACE] 02:57:50:533 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:572 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:572 Socket/(23597:23600): Se envio: hB
+[TRACE] 02:57:50:612 Socket/(23599:23599): Se recibio: hB
+[TRACE] 02:57:50:612 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:653 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:654 Socket/(23597:23600): Se envio: bC
+[TRACE] 02:57:50:693 Socket/(23599:23599): Se recibio: bC
+[TRACE] 02:57:50:694 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:732 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:733 Socket/(23597:23600): Se envio: \D
+[TRACE] 02:57:50:773 Socket/(23599:23599): Se recibio: \D
+[TRACE] 02:57:50:773 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:813 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:814 Socket/(23597:23600): Se envio: VE
+[TRACE] 02:57:50:852 Socket/(23599:23599): Se recibio: VE
+[TRACE] 02:57:50:852 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:892 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:892 Socket/(23597:23600): Se envio: PF
+[TRACE] 02:57:50:932 Socket/(23599:23599): Se recibio: PF
+[TRACE] 02:57:50:932 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:50:972 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:50:972 Socket/(23597:23600): Se envio: JG
+[TRACE] 02:57:51:12 Socket/(23599:23599): Se recibio: JG
+[TRACE] 02:57:51:12 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:53 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:54 Socket/(23597:23600): Se envio: DH
+[TRACE] 02:57:51:92 Socket/(23599:23599): Se recibio: DH
+[TRACE] 02:57:51:92 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:132 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:132 Socket/(23597:23600): Se envio: >I
+[TRACE] 02:57:51:172 Socket/(23599:23599): Se recibio: >I
+[TRACE] 02:57:51:172 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:212 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:212 Socket/(23597:23600): Se envio: 8J
+[TRACE] 02:57:51:252 Socket/(23599:23599): Se recibio: 8J
+[TRACE] 02:57:51:252 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:292 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:292 Socket/(23597:23600): Se envio: 2K
+[TRACE] 02:57:51:332 Socket/(23599:23599): Se recibio: 2K
+[TRACE] 02:57:51:333 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:373 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:373 Socket/(23597:23600): Se envio: ,L
+[TRACE] 02:57:51:412 Socket/(23599:23599): Se recibio: ,L
+[TRACE] 02:57:51:412 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:452 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:452 Socket/(23597:23600): Se envio: &M
+[TRACE] 02:57:51:492 Socket/(23599:23599): Se recibio: &M
+[TRACE] 02:57:51:492 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:532 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:532 Socket/(23597:23600): Se envio:  N
+[TRACE] 02:57:51:572 Socket/(23599:23599): Se recibio:  N
+[TRACE] 02:57:51:572 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:613 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:614 Socket/(23597:23600): Se envio: O
+[TRACE] 02:57:51:652 Socket/(23599:23599): Se recibio: O
+[TRACE] 02:57:51:652 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:692 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:692 Socket/(23597:23600): Se envio: P
+[TRACE] 02:57:51:733 Socket/(23599:23599): Se recibio: P
+[TRACE] 02:57:51:733 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:773 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:773 Socket/(23597:23600): Se envio: Q
+[TRACE] 02:57:51:812 Socket/(23599:23599): Se recibio: Q
+[TRACE] 02:57:51:812 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:852 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:852 Socket/(23597:23600): Se envio: R
+[TRACE] 02:57:51:892 Socket/(23599:23599): Se recibio: R
+[TRACE] 02:57:51:892 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:51:933 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:51:933 Socket/(23597:23600): Se envio: S
+[TRACE] 02:57:51:973 Socket/(23599:23599): Se recibio: S
+[TRACE] 02:57:51:973 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:13 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:13 Socket/(23597:23600): Se envio: üS
+[TRACE] 02:57:52:52 Socket/(23599:23599): Se recibio: üS
+[TRACE] 02:57:52:52 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:92 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:93 Socket/(23597:23600): Se envio: öT
+[TRACE] 02:57:52:132 Socket/(23599:23599): Se recibio: öT
+[TRACE] 02:57:52:132 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:174 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:174 Socket/(23597:23600): Se envio: ðU
+[TRACE] 02:57:52:212 Socket/(23599:23599): Se recibio: ðU
+[TRACE] 02:57:52:212 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:252 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:252 Socket/(23597:23600): Se envio: êV
+[TRACE] 02:57:52:292 Socket/(23599:23599): Se recibio: êV
+[TRACE] 02:57:52:292 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:332 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:332 Socket/(23597:23600): Se envio: äW
+[TRACE] 02:57:52:372 Socket/(23599:23599): Se recibio: äW
+[TRACE] 02:57:52:372 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:413 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:414 Socket/(23597:23600): Se envio: ÞX
+[TRACE] 02:57:52:452 Socket/(23599:23599): Se recibio: ÞX
+[TRACE] 02:57:52:452 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:492 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:492 Socket/(23597:23600): Se envio: ØY
+[TRACE] 02:57:52:532 Socket/(23599:23599): Se recibio: ØY
+[TRACE] 02:57:52:532 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:572 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:572 Socket/(23597:23600): Se envio: ÒZ
+[TRACE] 02:57:52:612 Socket/(23599:23599): Se recibio: ÒZ
+[TRACE] 02:57:52:613 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:652 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:653 Socket/(23597:23600): Se envio: Ì[
+[TRACE] 02:57:52:693 Socket/(23599:23599): Se recibio: Ì[
+[TRACE] 02:57:52:693 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:733 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:734 Socket/(23597:23600): Se envio: Æ\
+[TRACE] 02:57:52:772 Socket/(23599:23599): Se recibio: Æ\
+[TRACE] 02:57:52:772 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:812 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:812 Socket/(23597:23600): Se envio: À]
+[TRACE] 02:57:52:853 Socket/(23599:23599): Se recibio: À]
+[TRACE] 02:57:52:853 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:892 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:893 Socket/(23597:23600): Se envio: º^
+[TRACE] 02:57:52:932 Socket/(23599:23599): Se recibio: º^
+[TRACE] 02:57:52:932 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:52:973 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:52:974 Socket/(23597:23600): Se envio: ´_
+[TRACE] 02:57:53:12 Socket/(23599:23599): Se recibio: ´_
+[TRACE] 02:57:53:12 Socket/(23599:23599): Se envio: 
+[TRACE] 02:57:53:52 Socket/(23597:23600): Se recibio: 
+[TRACE] 02:57:53:52 Socket/(23597:23600): Se envio: ®`
+[TRACE] 02:57:53:92 Socket/(23599:23599): Se recibio: ®`
+[ERROR] 02:57:53:93 Socket/(23597:23600): Ocurrio un error en la funcion recv
+[TRACE] 03:11:35:937 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:35:937 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:35:938 Socket/(23654:23657): Se envio: 
+[TRACE] 03:11:35:938 Socket/(23656:23656): Se recibio: 
+[TRACE] 03:11:35:938 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:35:977 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:35:977 Socket/(23654:23657): Se envio: ú
+[TRACE] 03:11:36:16 Socket/(23656:23656): Se recibio: ú
+[TRACE] 03:11:36:16 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:57 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:57 Socket/(23654:23657): Se envio: ô
+[TRACE] 03:11:36:97 Socket/(23656:23656): Se recibio: ô
+[TRACE] 03:11:36:97 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:136 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:136 Socket/(23654:23657): Se envio: î
+[TRACE] 03:11:36:177 Socket/(23656:23656): Se recibio: î
+[TRACE] 03:11:36:178 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:217 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:217 Socket/(23654:23657): Se envio: è
+[TRACE] 03:11:36:256 Socket/(23656:23656): Se recibio: è
+[TRACE] 03:11:36:256 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:297 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:300 Socket/(23654:23657): Se envio: â
+[TRACE] 03:11:36:340 Socket/(23656:23656): Se recibio: â
+[TRACE] 03:11:36:341 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:381 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:383 Socket/(23654:23657): Se envio: Ü
+[TRACE] 03:11:36:420 Socket/(23656:23656): Se recibio: Ü
+[TRACE] 03:11:36:421 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:460 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:460 Socket/(23654:23657): Se envio: Ö
+[TRACE] 03:11:36:500 Socket/(23656:23656): Se recibio: Ö
+[TRACE] 03:11:36:500 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:540 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:540 Socket/(23654:23657): Se envio: Ð
+[TRACE] 03:11:36:580 Socket/(23656:23656): Se recibio: Ð
+[TRACE] 03:11:36:580 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:620 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:621 Socket/(23654:23657): Se envio: Ê
+[TRACE] 03:11:36:662 Socket/(23656:23656): Se recibio: Ê
+[TRACE] 03:11:36:662 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:700 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:700 Socket/(23654:23657): Se envio: Ä	
+[TRACE] 03:11:36:740 Socket/(23656:23656): Se recibio: Ä	
+[TRACE] 03:11:36:740 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:780 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:782 Socket/(23654:23657): Se envio: ¾
+
+[TRACE] 03:11:36:820 Socket/(23656:23656): Se recibio: ¾
+
+[TRACE] 03:11:36:820 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:861 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:861 Socket/(23654:23657): Se envio: ¸
+[TRACE] 03:11:36:900 Socket/(23656:23656): Se recibio: ¸
+[TRACE] 03:11:36:900 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:36:940 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:36:940 Socket/(23654:23657): Se envio: ²
+[TRACE] 03:11:36:981 Socket/(23656:23656): Se recibio: ²
+[TRACE] 03:11:36:981 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:20 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:20 Socket/(23654:23657): Se envio: ¬
+[TRACE] 03:11:37:61 Socket/(23656:23656): Se recibio: ¬
+[TRACE] 03:11:37:61 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:100 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:100 Socket/(23654:23657): Se envio: ¦
+[TRACE] 03:11:37:141 Socket/(23656:23656): Se recibio: ¦
+[TRACE] 03:11:37:142 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:182 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:183 Socket/(23654:23657): Se envio:  
+[TRACE] 03:11:37:220 Socket/(23656:23656): Se recibio:  
+[TRACE] 03:11:37:220 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:260 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:260 Socket/(23654:23657): Se envio: š
+[TRACE] 03:11:37:300 Socket/(23656:23656): Se recibio: š
+[TRACE] 03:11:37:300 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:340 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:340 Socket/(23654:23657): Se envio: ”
+[TRACE] 03:11:37:381 Socket/(23656:23656): Se recibio: ”
+[TRACE] 03:11:37:382 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:420 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:420 Socket/(23654:23657): Se envio: Ž
+[TRACE] 03:11:37:461 Socket/(23656:23656): Se recibio: Ž
+[TRACE] 03:11:37:461 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:500 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:500 Socket/(23654:23657): Se envio: ˆ
+[TRACE] 03:11:37:540 Socket/(23656:23656): Se recibio: ˆ
+[TRACE] 03:11:37:540 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:580 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:581 Socket/(23654:23657): Se envio: ‚
+[TRACE] 03:11:37:621 Socket/(23656:23656): Se recibio: ‚
+[TRACE] 03:11:37:622 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:660 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:661 Socket/(23654:23657): Se envio: |
+[TRACE] 03:11:37:700 Socket/(23656:23656): Se recibio: |
+[TRACE] 03:11:37:700 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:741 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:742 Socket/(23654:23657): Se envio: v
+[TRACE] 03:11:37:780 Socket/(23656:23656): Se recibio: v
+[TRACE] 03:11:37:781 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:820 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:820 Socket/(23654:23657): Se envio: p
+[TRACE] 03:11:37:860 Socket/(23656:23656): Se recibio: p
+[TRACE] 03:11:37:860 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:900 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:900 Socket/(23654:23657): Se envio: j
+[TRACE] 03:11:37:941 Socket/(23656:23656): Se recibio: j
+[TRACE] 03:11:37:941 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:37:980 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:37:981 Socket/(23654:23657): Se envio: d
+[TRACE] 03:11:38:21 Socket/(23656:23656): Se recibio: d
+[TRACE] 03:11:38:21 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:60 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:60 Socket/(23654:23657): Se envio: ^
+[TRACE] 03:11:38:100 Socket/(23656:23656): Se recibio: ^
+[TRACE] 03:11:38:100 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:140 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:140 Socket/(23654:23657): Se envio: X
+[TRACE] 03:11:38:182 Socket/(23656:23656): Se recibio: X
+[TRACE] 03:11:38:182 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:221 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:222 Socket/(23654:23657): Se envio: R
+[TRACE] 03:11:38:261 Socket/(23656:23656): Se recibio: R
+[TRACE] 03:11:38:261 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:300 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:300 Socket/(23654:23657): Se envio: L
+[TRACE] 03:11:38:340 Socket/(23656:23656): Se recibio: L
+[TRACE] 03:11:38:340 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:380 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:381 Socket/(23654:23657): Se envio: F
+[TRACE] 03:11:38:421 Socket/(23656:23656): Se recibio: F
+[TRACE] 03:11:38:421 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:460 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:460 Socket/(23654:23657): Se envio: @
+[TRACE] 03:11:38:500 Socket/(23656:23656): Se recibio: @
+[TRACE] 03:11:38:500 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:541 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:541 Socket/(23654:23657): Se envio: : 
+[TRACE] 03:11:38:580 Socket/(23656:23656): Se recibio: : 
+[TRACE] 03:11:38:581 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:620 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:620 Socket/(23654:23657): Se envio: 4!
+[TRACE] 03:11:38:660 Socket/(23656:23656): Se recibio: 4!
+[TRACE] 03:11:38:660 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:700 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:700 Socket/(23654:23657): Se envio: ."
+[TRACE] 03:11:38:740 Socket/(23656:23656): Se recibio: ."
+[TRACE] 03:11:38:741 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:780 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:782 Socket/(23654:23657): Se envio: (#
+[TRACE] 03:11:38:820 Socket/(23656:23656): Se recibio: (#
+[TRACE] 03:11:38:820 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:860 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:861 Socket/(23654:23657): Se envio: "$
+[TRACE] 03:11:38:900 Socket/(23656:23656): Se recibio: "$
+[TRACE] 03:11:38:901 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:38:940 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:38:941 Socket/(23654:23657): Se envio: %
+[TRACE] 03:11:38:980 Socket/(23656:23656): Se recibio: %
+[TRACE] 03:11:38:982 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:20 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:20 Socket/(23654:23657): Se envio: &
+[TRACE] 03:11:39:61 Socket/(23656:23656): Se recibio: &
+[TRACE] 03:11:39:61 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:100 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:100 Socket/(23654:23657): Se envio: '
+[TRACE] 03:11:39:140 Socket/(23656:23656): Se recibio: '
+[TRACE] 03:11:39:140 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:180 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:181 Socket/(23654:23657): Se envio: 
+(
+[TRACE] 03:11:39:220 Socket/(23656:23656): Se recibio: 
+(
+[TRACE] 03:11:39:220 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:260 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:261 Socket/(23654:23657): Se envio: )
+[TRACE] 03:11:39:300 Socket/(23656:23656): Se recibio: )
+[TRACE] 03:11:39:300 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:340 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:340 Socket/(23654:23657): Se envio: þ)
+[TRACE] 03:11:39:381 Socket/(23656:23656): Se recibio: þ)
+[TRACE] 03:11:39:382 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:420 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:420 Socket/(23654:23657): Se envio: ø*
+[TRACE] 03:11:39:461 Socket/(23656:23656): Se recibio: ø*
+[TRACE] 03:11:39:461 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:500 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:501 Socket/(23654:23657): Se envio: ò+
+[TRACE] 03:11:39:541 Socket/(23656:23656): Se recibio: ò+
+[TRACE] 03:11:39:542 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:580 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:580 Socket/(23654:23657): Se envio: ì,
+[TRACE] 03:11:39:621 Socket/(23656:23656): Se recibio: ì,
+[TRACE] 03:11:39:621 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:660 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:660 Socket/(23654:23657): Se envio: æ-
+[TRACE] 03:11:39:700 Socket/(23656:23656): Se recibio: æ-
+[TRACE] 03:11:39:700 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:740 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:740 Socket/(23654:23657): Se envio: à.
+[TRACE] 03:11:39:780 Socket/(23656:23656): Se recibio: à.
+[TRACE] 03:11:39:781 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:820 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:820 Socket/(23654:23657): Se envio: Ú/
+[TRACE] 03:11:39:860 Socket/(23656:23656): Se recibio: Ú/
+[TRACE] 03:11:39:861 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:901 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:901 Socket/(23654:23657): Se envio: Ô0
+[TRACE] 03:11:39:940 Socket/(23656:23656): Se recibio: Ô0
+[TRACE] 03:11:39:940 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:39:980 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:39:980 Socket/(23654:23657): Se envio: Î1
+[TRACE] 03:11:40:20 Socket/(23656:23656): Se recibio: Î1
+[TRACE] 03:11:40:20 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:61 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:61 Socket/(23654:23657): Se envio: È2
+[TRACE] 03:11:40:101 Socket/(23656:23656): Se recibio: È2
+[TRACE] 03:11:40:101 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:140 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:140 Socket/(23654:23657): Se envio: Â3
+[TRACE] 03:11:40:182 Socket/(23656:23656): Se recibio: Â3
+[TRACE] 03:11:40:182 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:220 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:221 Socket/(23654:23657): Se envio: ¼4
+[TRACE] 03:11:40:261 Socket/(23656:23656): Se recibio: ¼4
+[TRACE] 03:11:40:261 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:300 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:301 Socket/(23654:23657): Se envio: ¶5
+[TRACE] 03:11:40:340 Socket/(23656:23656): Se recibio: ¶5
+[TRACE] 03:11:40:340 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:380 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:382 Socket/(23654:23657): Se envio: °6
+[TRACE] 03:11:40:420 Socket/(23656:23656): Se recibio: °6
+[TRACE] 03:11:40:420 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:461 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:461 Socket/(23654:23657): Se envio: ª7
+[TRACE] 03:11:40:500 Socket/(23656:23656): Se recibio: ª7
+[TRACE] 03:11:40:500 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:540 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:540 Socket/(23654:23657): Se envio: ¤8
+[TRACE] 03:11:40:581 Socket/(23656:23656): Se recibio: ¤8
+[TRACE] 03:11:40:582 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:621 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:621 Socket/(23654:23657): Se envio: ž9
+[TRACE] 03:11:40:660 Socket/(23656:23656): Se recibio: ž9
+[TRACE] 03:11:40:660 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:702 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:702 Socket/(23654:23657): Se envio: ˜:
+[TRACE] 03:11:40:740 Socket/(23656:23656): Se recibio: ˜:
+[TRACE] 03:11:40:740 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:781 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:782 Socket/(23654:23657): Se envio: ’;
+[TRACE] 03:11:40:820 Socket/(23656:23656): Se recibio: ’;
+[TRACE] 03:11:40:821 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:861 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:862 Socket/(23654:23657): Se envio: Œ<
+[TRACE] 03:11:40:901 Socket/(23656:23656): Se recibio: Œ<
+[TRACE] 03:11:40:901 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:40:940 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:40:940 Socket/(23654:23657): Se envio: †=
+[TRACE] 03:11:40:980 Socket/(23656:23656): Se recibio: †=
+[TRACE] 03:11:40:981 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:20 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:20 Socket/(23654:23657): Se envio: €>
+[TRACE] 03:11:41:61 Socket/(23656:23656): Se recibio: €>
+[TRACE] 03:11:41:61 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:101 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:101 Socket/(23654:23657): Se envio: z?
+[TRACE] 03:11:41:141 Socket/(23656:23656): Se recibio: z?
+[TRACE] 03:11:41:142 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:180 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:181 Socket/(23654:23657): Se envio: t@
+[TRACE] 03:11:41:221 Socket/(23656:23656): Se recibio: t@
+[TRACE] 03:11:41:221 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:261 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:261 Socket/(23654:23657): Se envio: nA
+[TRACE] 03:11:41:301 Socket/(23656:23656): Se recibio: nA
+[TRACE] 03:11:41:302 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:340 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:341 Socket/(23654:23657): Se envio: hB
+[TRACE] 03:11:41:381 Socket/(23656:23656): Se recibio: hB
+[TRACE] 03:11:41:382 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:420 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:420 Socket/(23654:23657): Se envio: bC
+[TRACE] 03:11:41:460 Socket/(23656:23656): Se recibio: bC
+[TRACE] 03:11:41:460 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:500 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:501 Socket/(23654:23657): Se envio: \D
+[TRACE] 03:11:41:540 Socket/(23656:23656): Se recibio: \D
+[TRACE] 03:11:41:540 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:580 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:580 Socket/(23654:23657): Se envio: VE
+[TRACE] 03:11:41:621 Socket/(23656:23656): Se recibio: VE
+[TRACE] 03:11:41:622 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:661 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:661 Socket/(23654:23657): Se envio: PF
+[TRACE] 03:11:41:700 Socket/(23656:23656): Se recibio: PF
+[TRACE] 03:11:41:700 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:740 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:740 Socket/(23654:23657): Se envio: JG
+[TRACE] 03:11:41:781 Socket/(23656:23656): Se recibio: JG
+[TRACE] 03:11:41:781 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:820 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:820 Socket/(23654:23657): Se envio: DH
+[TRACE] 03:11:41:861 Socket/(23656:23656): Se recibio: DH
+[TRACE] 03:11:41:862 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:900 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:900 Socket/(23654:23657): Se envio: >I
+[TRACE] 03:11:41:940 Socket/(23656:23656): Se recibio: >I
+[TRACE] 03:11:41:940 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:41:980 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:41:981 Socket/(23654:23657): Se envio: 8J
+[TRACE] 03:11:42:20 Socket/(23656:23656): Se recibio: 8J
+[TRACE] 03:11:42:20 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:60 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:60 Socket/(23654:23657): Se envio: 2K
+[TRACE] 03:11:42:101 Socket/(23656:23656): Se recibio: 2K
+[TRACE] 03:11:42:102 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:141 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:142 Socket/(23654:23657): Se envio: ,L
+[TRACE] 03:11:42:181 Socket/(23656:23656): Se recibio: ,L
+[TRACE] 03:11:42:182 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:220 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:220 Socket/(23654:23657): Se envio: &M
+[TRACE] 03:11:42:261 Socket/(23656:23656): Se recibio: &M
+[TRACE] 03:11:42:261 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:300 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:300 Socket/(23654:23657): Se envio:  N
+[TRACE] 03:11:42:340 Socket/(23656:23656): Se recibio:  N
+[TRACE] 03:11:42:340 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:380 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:382 Socket/(23654:23657): Se envio: O
+[TRACE] 03:11:42:420 Socket/(23656:23656): Se recibio: O
+[TRACE] 03:11:42:420 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:461 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:462 Socket/(23654:23657): Se envio: P
+[TRACE] 03:11:42:500 Socket/(23656:23656): Se recibio: P
+[TRACE] 03:11:42:500 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:540 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:541 Socket/(23654:23657): Se envio: Q
+[TRACE] 03:11:42:580 Socket/(23656:23656): Se recibio: Q
+[TRACE] 03:11:42:581 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:620 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:621 Socket/(23654:23657): Se envio: R
+[TRACE] 03:11:42:660 Socket/(23656:23656): Se recibio: R
+[TRACE] 03:11:42:660 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:700 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:700 Socket/(23654:23657): Se envio: S
+[TRACE] 03:11:42:740 Socket/(23656:23656): Se recibio: S
+[TRACE] 03:11:42:740 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:780 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:781 Socket/(23654:23657): Se envio: üS
+[TRACE] 03:11:42:820 Socket/(23656:23656): Se recibio: üS
+[TRACE] 03:11:42:820 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:860 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:860 Socket/(23654:23657): Se envio: öT
+[TRACE] 03:11:42:900 Socket/(23656:23656): Se recibio: öT
+[TRACE] 03:11:42:900 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:42:940 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:42:940 Socket/(23654:23657): Se envio: ðU
+[TRACE] 03:11:42:981 Socket/(23656:23656): Se recibio: ðU
+[TRACE] 03:11:42:981 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:20 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:21 Socket/(23654:23657): Se envio: êV
+[TRACE] 03:11:43:60 Socket/(23656:23656): Se recibio: êV
+[TRACE] 03:11:43:60 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:100 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:101 Socket/(23654:23657): Se envio: äW
+[TRACE] 03:11:43:140 Socket/(23656:23656): Se recibio: äW
+[TRACE] 03:11:43:140 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:180 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:181 Socket/(23654:23657): Se envio: ÞX
+[TRACE] 03:11:43:221 Socket/(23656:23656): Se recibio: ÞX
+[TRACE] 03:11:43:221 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:260 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:260 Socket/(23654:23657): Se envio: ØY
+[TRACE] 03:11:43:300 Socket/(23656:23656): Se recibio: ØY
+[TRACE] 03:11:43:300 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:341 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:341 Socket/(23654:23657): Se envio: ÒZ
+[TRACE] 03:11:43:381 Socket/(23656:23656): Se recibio: ÒZ
+[TRACE] 03:11:43:382 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:420 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:421 Socket/(23654:23657): Se envio: Ì[
+[TRACE] 03:11:43:461 Socket/(23656:23656): Se recibio: Ì[
+[TRACE] 03:11:43:461 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:500 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:500 Socket/(23654:23657): Se envio: Æ\
+[TRACE] 03:11:43:540 Socket/(23656:23656): Se recibio: Æ\
+[TRACE] 03:11:43:540 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:580 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:581 Socket/(23654:23657): Se envio: À]
+[TRACE] 03:11:43:620 Socket/(23656:23656): Se recibio: À]
+[TRACE] 03:11:43:620 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:660 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:660 Socket/(23654:23657): Se envio: º^
+[TRACE] 03:11:43:701 Socket/(23656:23656): Se recibio: º^
+[TRACE] 03:11:43:701 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:740 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:741 Socket/(23654:23657): Se envio: ´_
+[TRACE] 03:11:43:780 Socket/(23656:23656): Se recibio: ´_
+[TRACE] 03:11:43:780 Socket/(23656:23656): Se envio: 
+[TRACE] 03:11:43:820 Socket/(23654:23657): Se recibio: 
+[TRACE] 03:11:43:820 Socket/(23654:23657): Se envio: ®`
+[TRACE] 03:11:43:860 Socket/(23656:23656): Se recibio: ®`
+[ERROR] 03:11:43:861 Socket/(23654:23657): Ocurrio un error en la funcion recv
+[TRACE] 03:14:08:369 Socket/(23867:23867): Se envio: 
+[TRACE] 03:14:08:369 Socket/(23865:23868): Se recibio: 
+[TRACE] 03:14:08:369 Socket/(23865:23868): Se envio: 
+[TRACE] 03:14:08:369 Socket/(23867:23867): Se recibio: 
+[TRACE] 03:14:08:369 Socket/(23867:23867): Se envio: 
+[TRACE] 03:14:08:408 Socket/(23865:23868): Se recibio: 
+[TRACE] 03:14:08:408 Socket/(23865:23868): Se envio: ú
+[TRACE] 03:14:08:448 Socket/(23867:23867): Se recibio: ú
+[TRACE] 03:14:08:448 Socket/(23867:23867): Se envio: 
+[TRACE] 03:14:08:488 Socket/(23865:23868): Se recibio: 
+[TRACE] 03:14:08:489 Socket/(23865:23868): Se envio: -1
+[TRACE] 03:14:08:528 Socket/(23867:23867): Se recibio: -1
+[TRACE] 03:15:02:252 Socket/(23920:23920): Se envio: 
+[TRACE] 03:15:02:255 Socket/(23909:23921): Se recibio: 
+[TRACE] 03:15:08:30 Socket/(23909:23921): Se envio: 
+[TRACE] 03:15:08:30 Socket/(23920:23920): Se recibio: 
+[TRACE] 03:15:08:31 Socket/(23920:23920): Se envio: 
+[TRACE] 03:15:08:31 Socket/(23909:23921): Se recibio: 
+[TRACE] 03:15:09:770 Socket/(23909:23921): Se envio: ú
+[TRACE] 03:15:09:808 Socket/(23920:23920): Se recibio: ú
+[TRACE] 03:15:09:808 Socket/(23920:23920): Se envio: 
+[TRACE] 03:15:09:808 Socket/(23909:23921): Se recibio: 
+[ERROR] 03:15:19:570 Socket/(23920:23920): Ocurrio un error en la funcion recv
+[TRACE] 03:16:23:690 Socket/(24016:24016): Se envio: 
+[TRACE] 03:16:23:690 Socket/(24014:24017): Se recibio: 
+[TRACE] 03:16:23:691 Socket/(24014:24017): Se envio: 
+[TRACE] 03:16:23:691 Socket/(24016:24016): Se recibio: 
+[TRACE] 03:16:23:691 Socket/(24016:24016): Se envio: 
+[TRACE] 03:16:23:728 Socket/(24014:24017): Se recibio: 
+[TRACE] 03:16:23:728 Socket/(24014:24017): Se envio: ú
+[TRACE] 03:16:23:768 Socket/(24016:24016): Se recibio: ú
+[TRACE] 03:16:23:768 Socket/(24016:24016): Se envio: 
+[TRACE] 03:16:23:809 Socket/(24014:24017): Se recibio: 
+[ERROR] 03:17:12:564 Socket/(24016:24016): Ocurrio un error en la funcion recv
+[TRACE] 03:18:21:483 Socket/(24129:24129): Se envio: 
+[TRACE] 03:18:21:483 Socket/(24127:24130): Se recibio: 
+[TRACE] 03:18:21:484 Socket/(24127:24130): Se envio: 
+[TRACE] 03:18:21:484 Socket/(24129:24129): Se recibio: 
+[TRACE] 03:18:21:486 Socket/(24129:24129): Se envio: 
+[TRACE] 03:18:21:524 Socket/(24127:24130): Se recibio: 
+[TRACE] 03:18:21:525 Socket/(24127:24130): Se envio: ú
+[TRACE] 03:18:21:564 Socket/(24129:24129): Se recibio: ú
+[TRACE] 03:18:21:564 Socket/(24129:24129): Se envio: 
+[TRACE] 03:18:21:604 Socket/(24127:24130): Se recibio: 
+[ERROR] 03:18:23:829 Socket/(24129:24129): Ocurrio un error en la funcion recv
+[TRACE] 03:19:47:956 Socket/(24243:24243): Se envio: 
+[TRACE] 03:19:47:959 Socket/(24234:24244): Se recibio: 
+[TRACE] 03:19:51:65 Socket/(24234:24244): Se envio: 
+[TRACE] 03:19:51:65 Socket/(24243:24243): Se recibio: 
+[TRACE] 03:19:51:65 Socket/(24243:24243): Se envio: 
+[TRACE] 03:19:51:66 Socket/(24234:24244): Se recibio: 
+[TRACE] 03:19:53:505 Socket/(24234:24244): Se envio: ú
+[TRACE] 03:19:53:544 Socket/(24243:24243): Se recibio: ú
+[TRACE] 03:19:53:544 Socket/(24243:24243): Se envio: 
+[TRACE] 03:19:53:544 Socket/(24234:24244): Se recibio: 
+[ERROR] 03:22:24:179 Socket/(24243:24243): Ocurrio un error en la funcion recv
+[TRACE] 03:24:34:475 Socket/(24420:24420): Se envio: 
+[TRACE] 03:24:34:475 Socket/(24418:24421): Se recibio: 
+[TRACE] 03:24:34:475 Socket/(24418:24421): Se envio: 
+[TRACE] 03:24:34:475 Socket/(24420:24420): Se recibio: 
+[TRACE] 03:24:34:476 Socket/(24420:24420): Se envio: 
+[TRACE] 03:24:34:513 Socket/(24418:24421): Se recibio: 
+[TRACE] 03:24:34:513 Socket/(24418:24421): Se envio: ú
+[TRACE] 03:24:34:553 Socket/(24420:24420): Se recibio: ú
+[TRACE] 03:24:34:553 Socket/(24420:24420): Se envio: 
+[TRACE] 03:24:34:593 Socket/(24418:24421): Se recibio: 
+[ERROR] 03:24:43:190 Socket/(24418:24421): Ocurrio un error en la funcion recv
+[TRACE] 03:24:51:760 Socket/(24422:24422): Se envio: 
+[TRACE] 03:24:51:760 Socket/(24418:24423): Se recibio: 
+[TRACE] 03:24:51:760 Socket/(24418:24423): Se envio: ô
+[TRACE] 03:24:51:760 Socket/(24422:24422): Se recibio: ô
+[TRACE] 03:24:51:761 Socket/(24422:24422): Se envio: 
+[TRACE] 03:24:51:800 Socket/(24418:24423): Se recibio: 
+[TRACE] 03:24:51:801 Socket/(24418:24423): Se envio: î
+[TRACE] 03:24:51:840 Socket/(24422:24422): Se recibio: î
+[TRACE] 03:24:51:840 Socket/(24422:24422): Se envio: 
+[TRACE] 03:24:51:881 Socket/(24418:24423): Se recibio: 
+[ERROR] 03:26:20:192 Socket/(24418:24423): Ocurrio un error en la funcion recv
+[TRACE] 03:27:31:92 Socket/(24480:24480): Se envio: 
+[TRACE] 03:27:31:92 Socket/(24478:24481): Se recibio: 
+[TRACE] 03:27:31:93 Socket/(24478:24481): Se envio: 
+[TRACE] 03:27:31:93 Socket/(24480:24480): Se recibio: 
+[TRACE] 03:27:31:93 Socket/(24480:24480): Se envio: 
+[TRACE] 03:27:31:133 Socket/(24478:24481): Se recibio: 
+[TRACE] 03:27:31:133 Socket/(24478:24481): Se envio: ú
+[TRACE] 03:27:31:173 Socket/(24480:24480): Se recibio: ú
+[TRACE] 03:27:31:173 Socket/(24480:24480): Se envio: 
+[TRACE] 03:27:31:212 Socket/(24478:24481): Se recibio: 
+[ERROR] 03:27:35:867 Socket/(24478:24481): Ocurrio un error en la funcion recv
+[TRACE] 03:28:24:239 Socket/(24554:24554): Se envio: 
+[TRACE] 03:28:24:239 Socket/(24552:24555): Se recibio: 
+[TRACE] 03:28:24:239 Socket/(24552:24555): Se envio: 
+[TRACE] 03:28:24:239 Socket/(24554:24554): Se recibio: 
+[TRACE] 03:28:24:240 Socket/(24554:24554): Se envio: 
+[TRACE] 03:28:24:281 Socket/(24552:24555): Se recibio: 
+[TRACE] 03:28:24:282 Socket/(24552:24555): Se envio: ú
+[TRACE] 03:28:24:320 Socket/(24554:24554): Se recibio: ú
+[TRACE] 03:28:24:320 Socket/(24554:24554): Se envio: 
+[TRACE] 03:28:24:361 Socket/(24552:24555): Se recibio: 
+[ERROR] 03:28:44:66 Socket/(24554:24554): Ocurrio un error en la funcion recv
+[ERROR] 03:30:05:866 Socket/(24682:24682): Ocurrio un error en la funcion recv
+[TRACE] 03:30:40:710 Socket/(24759:24759): Se envio: 
+[TRACE] 03:30:40:711 Socket/(24738:24764): Se recibio: 
+[TRACE] 03:30:45:97 Socket/(24738:24764): Se envio: 
+[TRACE] 03:30:45:97 Socket/(24759:24759): Se recibio: 
+[TRACE] 03:30:45:97 Socket/(24759:24759): Se envio: 
+[TRACE] 03:30:45:97 Socket/(24738:24764): Se recibio: 
+[TRACE] 03:30:47:809 Socket/(24738:24764): Se envio: ú
+[TRACE] 03:30:47:848 Socket/(24759:24759): Se recibio: ú
+[TRACE] 03:30:47:848 Socket/(24759:24759): Se envio: 
+[TRACE] 03:30:47:849 Socket/(24738:24764): Se recibio: 
+[TRACE] 03:33:59:450 Socket/(25038:25038): Se envio: 
+[TRACE] 03:33:59:453 Socket/(25030:25039): Se recibio: 
+[TRACE] 03:34:02:371 Socket/(25030:25039): Se envio: 
+[TRACE] 03:34:02:371 Socket/(25038:25038): Se recibio: 
+[TRACE] 03:34:02:372 Socket/(25038:25038): Se envio: 
+[TRACE] 03:34:02:372 Socket/(25030:25039): Se recibio: 
+[TRACE] 03:34:03:550 Socket/(25030:25039): Se envio: ú
+[TRACE] 03:34:03:588 Socket/(25038:25038): Se recibio: ú
+[TRACE] 03:34:03:588 Socket/(25038:25038): Se envio: 
+[TRACE] 03:34:03:589 Socket/(25030:25039): Se recibio: 
+[ERROR] 03:34:23:696 Socket/(25038:25038): Ocurrio un error en la funcion recv
+[TRACE] 03:36:21:475 Socket/(25197:25197): Se envio: 
+[TRACE] 03:36:21:475 Socket/(25195:25198): Se recibio: 
+[TRACE] 03:36:21:476 Socket/(25195:25198): Se envio: 
+[TRACE] 03:36:21:476 Socket/(25197:25197): Se recibio: 
+[TRACE] 03:36:21:476 Socket/(25197:25197): Se envio: 
+[TRACE] 03:36:21:516 Socket/(25195:25198): Se recibio: 
+[TRACE] 03:36:21:516 Socket/(25195:25198): Se envio: ú
+[TRACE] 03:36:21:556 Socket/(25197:25197): Se recibio: ú
+[TRACE] 03:36:21:556 Socket/(25197:25197): Se envio: 
+[TRACE] 03:36:21:596 Socket/(25195:25198): Se recibio: 
+[ERROR] 03:36:21:727 Socket/(25197:25197): Ocurrio un error en la funcion recv
+[TRACE] 03:38:26:18 Socket/(25322:25322): Se envio: 
+[TRACE] 03:38:26:18 Socket/(25320:25323): Se recibio: 
+[TRACE] 03:38:26:18 Socket/(25320:25323): Se envio: 
+[TRACE] 03:38:26:18 Socket/(25322:25322): Se recibio: 
+[TRACE] 03:38:26:19 Socket/(25322:25322): Se envio: 
+[TRACE] 03:38:26:56 Socket/(25320:25323): Se recibio: 
+[TRACE] 03:38:26:56 Socket/(25320:25323): Se envio: ú
+[TRACE] 03:38:26:96 Socket/(25322:25322): Se recibio: ú
+[TRACE] 03:38:26:96 Socket/(25322:25322): Se envio: 
+[TRACE] 03:38:26:136 Socket/(25320:25323): Se recibio: 
+[ERROR] 03:38:28:581 Socket/(25320:25323): Ocurrio un error en la funcion recv
+[TRACE] 03:38:43:109 Socket/(25370:25370): Se envio: 
+[TRACE] 03:38:43:111 Socket/(25362:25371): Se recibio: 
+[TRACE] 03:38:47:215 Socket/(25362:25371): Se envio: 
+[TRACE] 03:38:47:215 Socket/(25370:25370): Se recibio: 
+[TRACE] 03:38:47:216 Socket/(25370:25370): Se envio: 
+[TRACE] 03:38:47:216 Socket/(25362:25371): Se recibio: 
+[TRACE] 03:38:48:484 Socket/(25362:25371): Se envio: ú
+[TRACE] 03:38:48:524 Socket/(25370:25370): Se recibio: ú
+[TRACE] 03:38:48:524 Socket/(25370:25370): Se envio: 
+[TRACE] 03:38:48:524 Socket/(25362:25371): Se recibio: 
+[TRACE] 03:41:31:150 Socket/(25464:25464): Se envio: 
+[TRACE] 03:41:31:152 Socket/(25456:25465): Se recibio: 
+[TRACE] 03:41:33:587 Socket/(25456:25465): Se envio: 
+[TRACE] 03:41:33:587 Socket/(25464:25464): Se recibio: 
+[TRACE] 03:41:33:587 Socket/(25464:25464): Se envio: 
+[TRACE] 03:41:33:587 Socket/(25456:25465): Se recibio: 
+[TRACE] 03:41:34:855 Socket/(25456:25465): Se envio: ú
+[TRACE] 03:41:34:892 Socket/(25464:25464): Se recibio: ú
+[TRACE] 03:41:34:892 Socket/(25464:25464): Se envio: 
+[TRACE] 03:41:34:892 Socket/(25456:25465): Se recibio: 
+[ERROR] 03:43:54:459 Socket/(25464:25464): Ocurrio un error en la funcion recv
+[TRACE] 03:46:01:127 Socket/(25622:25622): Se envio: 
+[TRACE] 03:46:01:127 Socket/(25620:25623): Se recibio: 
+[TRACE] 03:46:01:127 Socket/(25620:25623): Se envio: 
+[TRACE] 03:46:01:127 Socket/(25622:25622): Se recibio: 
+[TRACE] 03:46:01:128 Socket/(25622:25622): Se envio: 
+[TRACE] 03:46:01:168 Socket/(25620:25623): Se recibio: 
+[TRACE] 03:46:01:168 Socket/(25620:25623): Se envio: ú
+[TRACE] 03:46:01:208 Socket/(25622:25622): Se recibio: ú
+[TRACE] 03:46:01:208 Socket/(25622:25622): Se envio: 
+[TRACE] 03:46:01:248 Socket/(25620:25623): Se recibio: 
+[ERROR] 03:46:01:368 Socket/(25622:25622): Ocurrio un error en la funcion recv
+[TRACE] 03:48:29:850 Socket/(25737:25737): Se envio: 
+[TRACE] 03:48:29:853 Socket/(25727:25738): Se recibio: 
+[TRACE] 03:48:32:127 Socket/(25727:25738): Se envio: 
+[TRACE] 03:48:32:127 Socket/(25737:25737): Se recibio: 
+[TRACE] 03:48:32:128 Socket/(25737:25737): Se envio: 
+[TRACE] 03:48:32:128 Socket/(25727:25738): Se recibio: 
+[TRACE] 03:48:33:285 Socket/(25727:25738): Se envio: ú
+[TRACE] 03:48:33:324 Socket/(25737:25737): Se recibio: ú
+[TRACE] 03:48:33:324 Socket/(25737:25737): Se envio: 
+[TRACE] 03:48:33:324 Socket/(25727:25738): Se recibio: 
+[ERROR] 03:50:33:470 Socket/(25737:25737): Ocurrio un error en la funcion recv
+[TRACE] 03:52:38:282 Socket/(25844:25844): Se envio: 
+[TRACE] 03:52:38:282 Socket/(25842:25845): Se recibio: 
+[TRACE] 03:52:38:282 Socket/(25842:25845): Se envio: 
+[TRACE] 03:52:38:283 Socket/(25844:25844): Se recibio: 
+[TRACE] 03:52:38:283 Socket/(25844:25844): Se envio: 
+[TRACE] 03:52:38:320 Socket/(25842:25845): Se recibio: 
+[TRACE] 03:52:38:320 Socket/(25842:25845): Se envio: ú
+[TRACE] 03:52:38:361 Socket/(25844:25844): Se recibio: ú
+[TRACE] 03:52:38:361 Socket/(25844:25844): Se envio: 
+[TRACE] 03:52:38:400 Socket/(25842:25845): Se recibio: 
+[ERROR] 03:52:45:355 Socket/(25842:25845): Ocurrio un error en la funcion recv
+[TRACE] 03:53:02:465 Socket/(25906:25906): Se envio: 
+[TRACE] 03:53:02:468 Socket/(25898:25907): Se recibio: 
+[TRACE] 03:53:05:124 Socket/(25898:25907): Se envio: 
+[TRACE] 03:53:05:124 Socket/(25906:25906): Se recibio: 
+[TRACE] 03:53:05:124 Socket/(25906:25906): Se envio: 
+[TRACE] 03:53:05:124 Socket/(25898:25907): Se recibio: 
+[TRACE] 03:53:05:815 Socket/(25898:25907): Se envio: ú
+[TRACE] 03:53:05:852 Socket/(25906:25906): Se recibio: ú
+[TRACE] 03:53:05:852 Socket/(25906:25906): Se envio: 
+[TRACE] 03:53:05:852 Socket/(25898:25907): Se recibio: 
+[ERROR] 03:56:14:939 Socket/(25906:25906): Ocurrio un error en la funcion recv
+[TRACE] 03:57:46:262 Socket/(26166:26166): Se envio: 
+[TRACE] 03:57:46:264 Socket/(26158:26167): Se recibio: 
+[TRACE] 03:57:47:811 Socket/(26158:26167): Se envio: 
+[TRACE] 03:57:47:811 Socket/(26166:26166): Se recibio: 
+[TRACE] 03:57:47:811 Socket/(26166:26166): Se envio: 
+[TRACE] 03:57:47:812 Socket/(26158:26167): Se recibio: 
+[TRACE] 03:57:48:95 Socket/(26158:26167): Se envio: ú
+[TRACE] 03:57:48:132 Socket/(26166:26166): Se recibio: ú
+[TRACE] 03:57:48:140 Socket/(26166:26166): Se envio: 
+[TRACE] 03:57:48:144 Socket/(26158:26167): Se recibio: 
+[TRACE] 04:00:09:54 Socket/(26298:26298): Se envio: 
+[TRACE] 04:00:09:54 Socket/(26304:26309): Se recibio: 
+[TRACE] 04:00:09:54 Socket/(26304:26309): Se envio: 
+[TRACE] 04:00:09:54 Socket/(26298:26298): Se recibio: 
+[TRACE] 04:00:09:448 Socket/(26298:26298): Se envio: 
+[TRACE] 04:00:09:488 Socket/(26304:26309): Se recibio: 
+[TRACE] 04:00:09:488 Socket/(26304:26309): Se envio: ú
+[TRACE] 04:00:09:488 Socket/(26298:26298): Se recibio: ú
+[TRACE] 04:00:31:325 Socket/(26298:26298): Se envio: 
+[TRACE] 04:00:31:364 Socket/(26304:26309): Se recibio: 
+[ERROR] 04:04:48:309 Socket/(26304:26309): Ocurrio un error en la funcion recv
+[TRACE] 04:05:33:12 Socket/(26423:26423): Se envio: 
+[TRACE] 04:05:33:12 Socket/(26421:26424): Se recibio: 
+[TRACE] 04:05:33:13 Socket/(26421:26424): Se envio: 
+[TRACE] 04:05:33:13 Socket/(26423:26423): Se recibio: 
+[TRACE] 04:05:33:13 Socket/(26423:26423): Se envio: 
+[TRACE] 04:05:33:52 Socket/(26421:26424): Se recibio: 
+[TRACE] 04:05:33:52 Socket/(26421:26424): Se envio: ú
+[TRACE] 04:05:33:93 Socket/(26423:26423): Se recibio: ú
+[TRACE] 04:05:33:93 Socket/(26423:26423): Se envio: 
+[TRACE] 04:05:33:132 Socket/(26421:26424): Se recibio: 
+[ERROR] 04:05:33:262 Socket/(26423:26423): Ocurrio un error en la funcion recv
+[TRACE] 04:06:35:613 Socket/(26495:26495): Se envio: 
+[TRACE] 04:06:35:616 Socket/(26484:26496): Se recibio: 
+[TRACE] 04:06:37:682 Socket/(26484:26496): Se envio: 
+[TRACE] 04:06:37:682 Socket/(26495:26495): Se recibio: 
+[TRACE] 04:06:37:682 Socket/(26495:26495): Se envio: 
+[TRACE] 04:06:37:682 Socket/(26484:26496): Se recibio: 
+[TRACE] 04:06:38:878 Socket/(26484:26496): Se envio: ú
+[TRACE] 04:06:38:916 Socket/(26495:26495): Se recibio: ú
+[TRACE] 04:06:38:916 Socket/(26495:26495): Se envio: 
+[TRACE] 04:06:38:916 Socket/(26484:26496): Se recibio: 
+[ERROR] 04:06:54:14 Socket/(26495:26495): Ocurrio un error en la funcion recv
+[TRACE] 04:09:48:699 Socket/(26686:26686): Se envio: 
+[TRACE] 04:09:48:699 Socket/(26684:26687): Se recibio: 
+[TRACE] 04:09:48:699 Socket/(26684:26687): Se envio: 
+[TRACE] 04:09:48:699 Socket/(26686:26686): Se recibio: 
+[TRACE] 04:09:48:699 Socket/(26686:26686): Se envio: 
+[TRACE] 04:09:48:737 Socket/(26684:26687): Se recibio: 
+[TRACE] 04:09:48:738 Socket/(26684:26687): Se envio: ú
+[TRACE] 04:09:48:776 Socket/(26686:26686): Se recibio: ú
+[TRACE] 04:09:48:776 Socket/(26686:26686): Se envio: 
+[TRACE] 04:09:48:816 Socket/(26684:26687): Se recibio: 
+[ERROR] 04:09:52:611 Socket/(26684:26687): Ocurrio un error en la funcion recv
+[TRACE] 04:10:16:248 Socket/(26742:26742): Se envio: 
+[TRACE] 04:10:16:249 Socket/(26740:26743): Se recibio: 
+[TRACE] 04:10:16:249 Socket/(26740:26743): Se envio: 
+[TRACE] 04:10:16:249 Socket/(26742:26742): Se recibio: 
+[TRACE] 04:10:16:249 Socket/(26742:26742): Se envio: 
+[TRACE] 04:10:16:288 Socket/(26740:26743): Se recibio: 
+[TRACE] 04:10:16:288 Socket/(26740:26743): Se envio: ú
+[TRACE] 04:10:16:329 Socket/(26742:26742): Se recibio: ú
+[TRACE] 04:10:16:329 Socket/(26742:26742): Se envio: 
+[TRACE] 04:10:16:368 Socket/(26740:26743): Se recibio: 
+[TRACE] 04:10:16:369 Socket/(26740:26743): Se envio: 
+[TRACE] 04:10:16:408 Socket/(26742:26742): Se recibio: 
+[ERROR] 04:10:16:410 Socket/(26740:26743): Ocurrio un error en la funcion recv
+[TRACE] 04:12:31:347 Socket/(26848:26848): Se envio: 
+[TRACE] 04:12:31:347 Socket/(26810:26856): Se recibio: 
+[TRACE] 04:12:31:347 Socket/(26810:26856): Se envio: 
+[TRACE] 04:12:31:347 Socket/(26848:26848): Se recibio: 
+[TRACE] 04:12:31:348 Socket/(26848:26848): Se envio: 
+[TRACE] 04:12:31:384 Socket/(26810:26856): Se recibio: 
+[TRACE] 04:12:31:384 Socket/(26810:26856): Se envio: ú
+[TRACE] 04:12:31:424 Socket/(26848:26848): Se recibio: ú
+[TRACE] 04:12:35:616 Socket/(26848:26848): Se envio: 
+[TRACE] 04:12:35:657 Socket/(26810:26856): Se recibio: 
+[TRACE] 04:12:35:658 Socket/(26810:26856): Se envio: 
+[TRACE] 04:12:36:121 Socket/(26848:26848): Se recibio: 
+[ERROR] 04:12:36:121 Socket/(26810:26856): Ocurrio un error en la funcion recv
+[TRACE] 04:13:07:253 Socket/(26906:26906): Se envio: 
+[TRACE] 04:13:07:253 Socket/(26810:26914): Se recibio: 
+[TRACE] 04:13:07:253 Socket/(26810:26914): Se envio: ô
+[TRACE] 04:13:07:254 Socket/(26906:26906): Se recibio: ô
+[TRACE] 04:13:07:254 Socket/(26906:26906): Se envio: 
+[TRACE] 04:13:07:292 Socket/(26810:26914): Se recibio: 
+[TRACE] 04:13:07:292 Socket/(26810:26914): Se envio: î
+[TRACE] 04:13:07:332 Socket/(26906:26906): Se recibio: î
+[TRACE] 04:13:15:86 Socket/(26906:26906): Se envio: 
+[TRACE] 04:13:15:124 Socket/(26810:26914): Se recibio: 
+[TRACE] 04:13:15:124 Socket/(26810:26914): Se envio: 
+[TRACE] 04:13:15:725 Socket/(26906:26906): Se recibio: 
+[ERROR] 04:13:40:209 Socket/(26810:26914): Ocurrio un error en la funcion recv
+[TRACE] 04:40:37:489 Socket/(27614:27614): Se envio: 
+[TRACE] 04:40:37:489 Socket/(27581:27623): Se recibio: 
+[TRACE] 04:40:37:490 Socket/(27581:27623): Se envio: 
+[TRACE] 04:40:37:490 Socket/(27614:27614): Se recibio: 
+[TRACE] 04:40:37:490 Socket/(27614:27614): Se envio: 
+[TRACE] 04:40:37:528 Socket/(27581:27623): Se recibio: 
+[TRACE] 04:40:37:528 Socket/(27581:27623): Se envio: ú
+[TRACE] 04:40:37:568 Socket/(27614:27614): Se recibio: ú
+[TRACE] 04:40:42:231 Socket/(27614:27614): Se envio: 
+[TRACE] 04:40:42:268 Socket/(27581:27623): Se recibio: 
+[TRACE] 04:40:42:269 Socket/(27581:27623): Se envio: 
+[TRACE] 04:40:43:21 Socket/(27614:27614): Se recibio: 
+[TRACE] 04:40:43:22 Socket/(27614:27614): Se envio: 
+[TRACE] 04:40:43:60 Socket/(27581:27623): Se recibio: 
+[TRACE] 04:40:43:61 Socket/(27581:27623): Se envio: Nico
+[TRACE] 04:40:43:61 Socket/(27614:27614): Se recibio: Nico
+[ERROR] 04:40:43:61 Socket/(27581:27623): Ocurrio un error en la funcion recv
+[TRACE] 04:40:56:778 Socket/(27673:27673): Se envio: 
+[TRACE] 04:40:56:778 Socket/(27581:27682): Se recibio: 
+[TRACE] 04:40:56:779 Socket/(27581:27682): Se envio: ô
+[TRACE] 04:40:56:779 Socket/(27673:27673): Se recibio: ô
+[TRACE] 04:40:56:779 Socket/(27673:27673): Se envio: 
+[TRACE] 04:40:56:817 Socket/(27581:27682): Se recibio: 
+[TRACE] 04:40:56:817 Socket/(27581:27682): Se envio: î
+[TRACE] 04:40:56:857 Socket/(27673:27673): Se recibio: î
+[TRACE] 04:41:00:933 Socket/(27673:27673): Se envio: 
+[TRACE] 04:41:00:972 Socket/(27581:27682): Se recibio: 
+[TRACE] 04:41:00:973 Socket/(27581:27682): Se envio: 
+[TRACE] 04:41:01:467 Socket/(27673:27673): Se recibio: 
+[TRACE] 04:41:12:532 Socket/(27673:27673): Se envio: 
+[TRACE] 04:41:12:572 Socket/(27581:27682): Se recibio: 
+[TRACE] 04:41:12:573 Socket/(27581:27682): Se envio: Nico
+[TRACE] 04:41:12:573 Socket/(27673:27673): Se recibio: Nico
+[ERROR] 04:41:23:423 Socket/(27581:27682): Ocurrio un error en la funcion recv
+[TRACE] 04:41:33:669 Socket/(27723:27723): Se envio: 
+[TRACE] 04:41:33:669 Socket/(27581:27724): Se recibio: 
+[TRACE] 04:41:33:669 Socket/(27581:27724): Se envio: è
+[TRACE] 04:41:33:669 Socket/(27723:27723): Se recibio: è
+[TRACE] 04:41:33:670 Socket/(27723:27723): Se envio: 
+[TRACE] 04:41:33:708 Socket/(27581:27724): Se recibio: 
+[TRACE] 04:41:33:709 Socket/(27581:27724): Se envio: â
+[TRACE] 04:41:33:749 Socket/(27723:27723): Se recibio: â
+[TRACE] 04:41:33:750 Socket/(27723:27723): Se envio: 
+[TRACE] 04:41:33:788 Socket/(27581:27724): Se recibio: 
+[TRACE] 04:41:33:789 Socket/(27581:27724): Se envio: 
+[TRACE] 04:41:33:829 Socket/(27723:27723): Se recibio: 
+[TRACE] 04:41:33:829 Socket/(27723:27723): Se envio: 
+[TRACE] 04:41:33:869 Socket/(27581:27724): Se recibio: 
+[TRACE] 04:41:33:870 Socket/(27581:27724): Se envio: Nico
+[TRACE] 04:41:33:909 Socket/(27723:27723): Se recibio: Nico
+[ERROR] 04:41:33:910 Socket/(27581:27724): Ocurrio un error en la funcion recv
+=======
+[TRACE] 01:37:50:863 Socket/(18728:18728): Se envio: 
+[TRACE] 04:10:46:107 Socket/(22360:22360): Se envio: 
+[TRACE] 04:12:47:89 Socket/(22360:22360): Se envio: 
+[TRACE] 04:23:22:469 Socket/(22816:22816): Se envio: 
+[TRACE] 04:30:05:566 Socket/(23132:23132): Se envio: 
+[TRACE] 04:30:40:401 Socket/(23132:23132): Se envio: 
+[TRACE] 04:37:05:436 Socket/(23452:23452): Se envio: 
+[TRACE] 04:39:19:462 Socket/(23452:23452): Se envio: 
+>>>>>>> 73d6c128d427a8df4f0457d8e6bbfd063e6c3c75
+>>>>>>> 2e49ad94c3311039cd41472238697895438aeb8a
